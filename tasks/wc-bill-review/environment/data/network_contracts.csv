@@ -1,0 +1,4 @@
+network,network_name,discount_pct,agreement
+KHN,Keystone Health Network,10.0,network_agreements/KHN_agreement.md
+SUM,Summit Occupational PPO,12.0,network_agreements/SUM_agreement.md
+MER,Meridian Select,7.0,network_agreements/MER_agreement.md

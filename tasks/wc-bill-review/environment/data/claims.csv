@@ -1,0 +1,951 @@
+claim_id,jurisdiction_state,injury_date,employer,occupation,claimed_body_parts
+WC26000001,KY,2025-10-19,Cedar Logistics,electrician,cervical spine
+WC26000011,NM,2026-03-30,Bluff Builders,cashier,lumbar spine;left shoulder
+WC26000017,SC,2025-08-24,Meadow Manufacturing,electrician,right knee
+WC26000026,ID,2025-06-16,Bluff Transit,warehouse associate,left shoulder;cervical spine
+WC26000029,KY,2025-10-31,Canyon Manufacturing,nurse aide,lumbar spine;right knee;left shoulder
+WC26000039,NM,2026-03-15,Canyon Builders,line operator,left shoulder;lumbar spine
+WC26000042,SC,2025-11-02,Ridge Logistics,nurse aide,cervical spine
+WC26000054,ID,2025-08-21,Meadow Retail,driver,right knee
+WC26000062,KY,2026-01-01,Valley Foods,cashier,cervical spine;right shoulder
+WC26000065,SC,2025-07-24,Ridge Transit,carpenter,lumbar spine;head
+WC26000070,SC,2025-06-03,Riverbend Foods,line operator,right shoulder;cervical spine
+WC26000078,ID,2025-08-10,Prairie Logistics,warehouse associate,cervical spine;left shoulder
+WC26000088,KY,2025-10-06,Alder Foods,carpenter,lumbar spine
+WC26000091,NM,2026-03-24,Valley Retail,driver,lumbar spine
+WC26000104,SC,2026-01-20,Alder Transit,line operator,right shoulder
+WC26000110,ID,2026-02-07,Meadow Manufacturing,line operator,lumbar spine
+WC26000116,KY,2025-10-28,Pioneer Transit,nurse aide,right shoulder;left shoulder
+WC26000121,NM,2026-05-18,Riverbend Builders,custodian,left shoulder
+WC26000128,SC,2026-02-19,Cedar Retail,nurse aide,right shoulder
+WC26000136,ID,2026-04-08,Bluff Manufacturing,electrician,thoracic spine
+WC26000140,KY,2025-06-12,Summit Transit,driver,right wrist/hand
+WC26000149,NM,2025-08-24,Valley Retail,cashier,right wrist/hand
+WC26000154,SC,2025-09-13,Pioneer Logistics,driver,cervical spine;left knee
+WC26000166,ID,2025-08-18,Birch Manufacturing,warehouse associate,right shoulder
+WC26000173,KY,2026-02-24,Canyon Logistics,custodian,right knee
+WC26000178,NM,2026-03-27,Harbor Transit,driver,left knee;lumbar spine
+WC26000187,KY,2025-10-23,Prairie Health,driver,lumbar spine
+WC26000194,ID,2025-06-21,Summit Retail,warehouse associate,right wrist/hand
+WC26000199,KY,2026-01-02,Granite Manufacturing,driver,cervical spine
+WC26000204,NM,2026-01-19,Lakeside Foods,carpenter,head;left knee
+WC26000216,SC,2025-12-11,Bluff Retail,driver,right shoulder;thoracic spine
+WC26000221,ID,2025-09-23,Summit Manufacturing,cashier,lumbar spine;right knee
+WC26000226,KY,2025-12-22,Prairie Health,warehouse associate,cervical spine;left shoulder
+WC26000237,NM,2025-06-20,Cedar Retail,carpenter,cervical spine
+WC26000243,SC,2025-08-11,Alder Foods,carpenter,left wrist/hand
+WC26000251,ID,2025-06-02,Pioneer Manufacturing,warehouse associate,left knee;right knee
+WC26000257,KY,2026-05-12,Harbor Transit,custodian,left shoulder;right wrist/hand;head
+WC26000261,NM,2026-01-31,Meadow Transit,warehouse associate,right knee
+WC26000269,SC,2026-03-31,Valley Logistics,warehouse associate,cervical spine;lumbar spine
+WC26000275,ID,2026-02-13,Cedar Retail,line operator,left knee
+WC26000283,KY,2025-06-18,Granite Foods,carpenter,lumbar spine;right knee
+WC26000290,KY,2025-12-21,Alder Manufacturing,driver,left shoulder;cervical spine;right knee
+WC26000294,SC,2025-11-25,Riverbend Manufacturing,custodian,lumbar spine;head
+WC26000301,ID,2026-05-26,Pioneer Manufacturing,warehouse associate,left knee;right knee
+WC26000310,KY,2025-11-23,Birch Logistics,nurse aide,right wrist/hand;lumbar spine
+WC26000316,NM,2026-01-27,Canyon Manufacturing,driver,right shoulder;left wrist/hand
+WC26000328,SC,2026-02-10,Summit Builders,driver,cervical spine;head;left knee
+WC26000333,ID,2025-09-27,Alder Health,custodian,cervical spine;right shoulder;head
+WC26000340,KY,2025-08-14,Birch Manufacturing,line operator,right knee;right wrist/hand
+WC26000348,NM,2025-09-21,Bluff Health,custodian,lumbar spine;right wrist/hand
+WC26000353,SC,2025-08-18,Meadow Builders,driver,lumbar spine
+WC26000361,ID,2025-07-18,Cedar Transit,line operator,right wrist/hand;left knee
+WC26000366,KY,2025-11-23,Riverbend Logistics,cashier,thoracic spine
+WC26000371,NM,2025-11-15,Summit Logistics,nurse aide,lumbar spine;right knee
+WC26000381,SC,2025-08-15,Meadow Logistics,line operator,right knee;cervical spine
+WC26000387,ID,2025-12-23,Valley Health,cashier,right shoulder;left wrist/hand;thoracic spine
+WC26000394,KY,2025-09-09,Granite Logistics,nurse aide,left wrist/hand;right knee
+WC26000400,NM,2026-02-13,Birch Builders,line operator,cervical spine;left knee
+WC26000412,SC,2026-03-21,Summit Builders,carpenter,left wrist/hand;right shoulder
+WC26000417,ID,2025-06-22,Ridge Builders,custodian,left shoulder
+WC26000422,KY,2025-12-11,Birch Health,line operator,left knee
+WC26000430,NM,2026-01-28,Cedar Retail,nurse aide,left shoulder
+WC26000434,SC,2025-07-18,Ridge Foods,electrician,left knee;left shoulder
+WC26000442,ID,2025-11-14,Pioneer Health,cashier,left knee;head
+WC26000449,KY,2025-08-21,Lakeside Builders,warehouse associate,left shoulder
+WC26000457,NM,2025-09-16,Riverbend Foods,nurse aide,lumbar spine;right knee
+WC26000468,SC,2025-10-13,Pioneer Retail,cashier,left shoulder;lumbar spine
+WC26000472,ID,2025-06-21,Lakeside Retail,warehouse associate,thoracic spine
+WC26000482,KY,2025-12-15,Alder Manufacturing,line operator,left shoulder;left wrist/hand
+WC26000488,NM,2026-03-06,Lakeside Retail,carpenter,left shoulder;right shoulder
+WC26000495,NM,2026-03-10,Birch Retail,carpenter,lumbar spine;left wrist/hand;left knee
+WC26000503,ID,2026-01-11,Pioneer Logistics,driver,cervical spine;left wrist/hand;left knee
+WC26000505,KY,2025-10-17,Ridge Builders,driver,lumbar spine;left shoulder
+WC26000513,NM,2026-05-03,Harbor Builders,custodian,lumbar spine;right wrist/hand
+WC26000520,NM,2025-11-22,Ridge Retail,warehouse associate,right knee;thoracic spine
+WC26000526,ID,2025-12-19,Alder Manufacturing,nurse aide,lumbar spine
+WC26000534,KY,2025-06-15,Cedar Health,line operator,right shoulder
+WC26000540,NM,2025-07-17,Pioneer Health,carpenter,right shoulder
+WC26000552,NM,2026-03-29,Prairie Retail,custodian,right knee
+WC26000558,ID,2026-01-28,Prairie Transit,custodian,lumbar spine;cervical spine
+WC26000565,KY,2026-01-27,Pioneer Builders,driver,left knee
+WC26000571,NM,2025-09-06,Birch Retail,electrician,right shoulder
+WC26000574,SC,2025-11-13,Pioneer Builders,cashier,right shoulder;right wrist/hand
+WC26000586,ID,2026-01-27,Lakeside Manufacturing,custodian,right shoulder
+WC26000590,KY,2026-02-08,Prairie Manufacturing,driver,right shoulder
+WC26000601,NM,2025-11-09,Bluff Health,custodian,right shoulder
+WC26000605,SC,2025-11-30,Canyon Transit,line operator,lumbar spine
+WC26000609,ID,2026-05-07,Alder Logistics,line operator,left wrist/hand
+WC26000622,SC,2025-08-20,Pioneer Manufacturing,cashier,lumbar spine;left shoulder
+WC26000625,KY,2025-09-22,Canyon Retail,electrician,cervical spine;left knee;right wrist/hand
+WC26000634,SC,2025-10-10,Summit Retail,custodian,cervical spine;thoracic spine
+WC26000642,ID,2025-07-02,Bluff Health,nurse aide,lumbar spine;left wrist/hand
+WC26000649,KY,2025-11-27,Lakeside Builders,warehouse associate,right wrist/hand
+WC26000655,NM,2026-04-17,Cedar Logistics,carpenter,right shoulder
+WC26000660,SC,2025-10-31,Ridge Transit,warehouse associate,thoracic spine;right wrist/hand;left knee
+WC26000670,SC,2025-06-17,Cedar Retail,line operator,left knee
+WC26000672,KY,2025-11-09,Alder Transit,line operator,left shoulder
+WC26000679,NM,2026-02-10,Summit Logistics,nurse aide,cervical spine
+WC26000690,SC,2025-10-29,Harbor Builders,carpenter,lumbar spine
+WC26000698,ID,2025-10-20,Lakeside Manufacturing,carpenter,thoracic spine;right knee
+WC26000706,KY,2025-10-10,Birch Health,nurse aide,left wrist/hand;lumbar spine
+WC26000710,NM,2026-04-19,Cedar Builders,custodian,cervical spine;left shoulder
+WC26000717,SC,2026-03-14,Valley Manufacturing,cashier,right shoulder;left knee
+WC26000727,ID,2025-07-20,Prairie Transit,warehouse associate,cervical spine;left knee
+WC26000733,KY,2026-05-31,Canyon Manufacturing,driver,thoracic spine;cervical spine
+WC26000738,NM,2025-06-13,Harbor Manufacturing,nurse aide,left knee
+WC26000747,SC,2026-01-26,Ridge Health,driver,lumbar spine;right knee
+WC26000750,ID,2025-07-15,Birch Transit,line operator,head
+WC26000760,KY,2025-06-14,Cedar Retail,carpenter,right knee
+WC26000766,NM,2025-07-04,Meadow Logistics,driver,right knee
+WC26000771,SC,2025-09-18,Granite Retail,warehouse associate,left shoulder
+WC26000778,ID,2025-10-29,Prairie Health,driver,right knee
+WC26000786,KY,2025-09-09,Ridge Logistics,custodian,right shoulder
+WC26000792,NM,2025-07-26,Harbor Transit,driver,lumbar spine
+WC26000804,SC,2025-10-06,Ridge Logistics,electrician,lumbar spine;left shoulder
+WC26000808,ID,2025-07-18,Summit Manufacturing,nurse aide,left shoulder
+WC26000814,KY,2026-03-21,Summit Transit,driver,right knee
+WC26000819,NM,2025-10-03,Summit Transit,warehouse associate,right shoulder
+WC26000830,SC,2025-06-03,Bluff Transit,custodian,left wrist/hand
+WC26000838,ID,2025-06-26,Birch Transit,carpenter,lumbar spine;right wrist/hand
+WC26000840,NM,2025-06-16,Ridge Foods,driver,right shoulder;thoracic spine
+WC26000849,NM,2026-02-21,Cedar Builders,warehouse associate,left knee;right shoulder
+WC26000857,SC,2026-03-29,Birch Health,nurse aide,cervical spine;left knee;thoracic spine
+WC26000865,ID,2026-05-29,Bluff Manufacturing,cashier,left knee
+WC26000869,KY,2025-11-21,Canyon Foods,nurse aide,left knee;cervical spine
+WC26000880,NM,2025-08-21,Ridge Builders,driver,lumbar spine
+WC26000883,SC,2025-07-09,Riverbend Builders,cashier,right wrist/hand;right knee
+WC26000893,ID,2025-06-16,Harbor Builders,driver,right knee
+WC26000900,KY,2025-10-03,Prairie Builders,nurse aide,right knee
+WC26000903,NM,2026-02-28,Ridge Manufacturing,cashier,lumbar spine;thoracic spine
+WC26000914,SC,2026-01-08,Canyon Builders,cashier,left shoulder
+WC26000919,ID,2025-09-24,Summit Foods,warehouse associate,thoracic spine
+WC26000924,KY,2026-05-11,Bluff Health,driver,left knee
+WC26000936,NM,2026-05-07,Lakeside Manufacturing,nurse aide,thoracic spine
+WC26000943,SC,2026-04-14,Valley Builders,nurse aide,right knee;cervical spine;thoracic spine
+WC26000948,ID,2025-07-08,Canyon Retail,driver,lumbar spine
+WC26000957,KY,2025-06-27,Bluff Transit,warehouse associate,lumbar spine;thoracic spine
+WC26000959,NM,2025-08-16,Ridge Builders,warehouse associate,left wrist/hand;left shoulder
+WC26000970,SC,2026-01-01,Birch Transit,electrician,right wrist/hand
+WC26000978,ID,2025-10-13,Harbor Transit,driver,right knee
+WC26000981,NM,2025-08-06,Harbor Retail,nurse aide,lumbar spine;head
+WC26000988,NM,2025-12-15,Summit Retail,line operator,thoracic spine;left knee
+WC26001000,SC,2026-01-31,Birch Retail,driver,left knee
+WC26001001,ID,2025-08-25,Prairie Retail,carpenter,left knee
+WC26001008,SC,2026-04-23,Prairie Manufacturing,line operator,cervical spine;left knee
+WC26001021,NM,2025-11-29,Valley Foods,nurse aide,right shoulder;left wrist/hand
+WC26001024,SC,2026-04-17,Ridge Foods,custodian,right knee
+WC26001035,ID,2026-04-08,Canyon Foods,cashier,left shoulder
+WC26001040,KY,2026-01-03,Prairie Foods,custodian,lumbar spine;right shoulder
+WC26001044,NM,2025-11-08,Cedar Manufacturing,cashier,head;lumbar spine;left knee
+WC26001050,SC,2026-02-17,Harbor Manufacturing,line operator,left knee
+WC26001057,ID,2026-05-12,Meadow Manufacturing,carpenter,right shoulder
+WC26001065,KY,2025-10-26,Lakeside Foods,cashier,lumbar spine;left wrist/hand;right knee
+WC26001073,SC,2026-03-20,Harbor Retail,nurse aide,left knee;right shoulder
+WC26001079,ID,2025-06-24,Canyon Transit,custodian,lumbar spine
+WC26001085,NM,2026-04-22,Summit Transit,electrician,right shoulder;cervical spine
+WC26001094,KY,2026-05-22,Prairie Retail,cashier,right knee;thoracic spine
+WC26001100,NM,2025-12-15,Pioneer Logistics,line operator,lumbar spine;thoracic spine
+WC26001111,SC,2025-11-30,Meadow Foods,warehouse associate,head;left wrist/hand
+WC26001118,ID,2025-10-16,Granite Logistics,driver,left wrist/hand
+WC26001123,KY,2025-06-08,Birch Manufacturing,carpenter,right wrist/hand
+WC26001130,ID,2025-11-17,Meadow Builders,warehouse associate,lumbar spine;right shoulder;right wrist/hand
+WC26001136,SC,2026-01-07,Pioneer Foods,custodian,left knee;thoracic spine
+WC26001142,ID,2026-02-08,Ridge Logistics,cashier,right knee;left knee
+WC26001151,KY,2026-02-12,Granite Health,electrician,right knee
+WC26001158,NM,2026-05-02,Canyon Builders,nurse aide,right knee
+WC26001162,SC,2026-05-08,Valley Transit,cashier,lumbar spine;cervical spine
+WC26001170,ID,2025-09-30,Lakeside Transit,carpenter,head
+WC26001182,KY,2026-05-29,Harbor Builders,cashier,lumbar spine
+WC26001187,NM,2026-01-25,Granite Logistics,electrician,cervical spine;thoracic spine;head
+WC26001195,SC,2026-04-05,Canyon Foods,warehouse associate,lumbar spine
+WC26001203,ID,2025-11-08,Ridge Builders,carpenter,cervical spine
+WC26001208,KY,2025-08-15,Canyon Transit,warehouse associate,right shoulder;right knee
+WC26001212,NM,2026-01-28,Granite Logistics,nurse aide,left wrist/hand;right wrist/hand
+WC26001218,SC,2025-09-09,Granite Manufacturing,carpenter,right wrist/hand;cervical spine
+WC26001228,ID,2026-03-03,Birch Health,cashier,lumbar spine;left wrist/hand
+WC26001232,KY,2026-02-04,Valley Builders,electrician,right wrist/hand;right shoulder
+WC26001242,NM,2025-06-08,Summit Health,electrician,left shoulder
+WC26001252,SC,2026-01-26,Lakeside Foods,custodian,lumbar spine
+WC26001253,ID,2026-04-08,Canyon Transit,electrician,cervical spine
+WC26001265,KY,2026-01-03,Meadow Transit,cashier,cervical spine;left wrist/hand
+WC26001272,NM,2025-06-25,Birch Health,cashier,lumbar spine
+WC26001280,SC,2025-07-15,Harbor Transit,cashier,lumbar spine;left shoulder
+WC26001283,ID,2025-12-04,Prairie Foods,warehouse associate,right knee
+WC26001290,KY,2025-08-28,Ridge Manufacturing,carpenter,right shoulder
+WC26001300,NM,2026-05-24,Meadow Manufacturing,line operator,left shoulder
+WC26001304,SC,2026-05-21,Riverbend Transit,electrician,right shoulder
+WC26001309,ID,2025-07-15,Lakeside Transit,carpenter,right wrist/hand
+WC26001322,KY,2025-09-03,Harbor Logistics,line operator,thoracic spine;right knee;cervical spine
+WC26001324,NM,2025-11-09,Prairie Health,cashier,left knee
+WC26001331,SC,2025-07-17,Riverbend Health,carpenter,lumbar spine
+WC26001343,ID,2025-12-05,Harbor Builders,nurse aide,left wrist/hand;right knee
+WC26001348,KY,2025-09-27,Summit Manufacturing,carpenter,cervical spine;lumbar spine
+WC26001352,NM,2025-06-26,Granite Retail,line operator,left knee;thoracic spine
+WC26001360,SC,2025-09-06,Riverbend Manufacturing,warehouse associate,right wrist/hand
+WC26001367,SC,2026-05-29,Summit Builders,driver,right wrist/hand
+WC26001376,KY,2026-01-27,Alder Logistics,electrician,left wrist/hand
+WC26001383,NM,2026-01-03,Pioneer Health,carpenter,right shoulder;right knee
+WC26001388,SC,2026-03-11,Cedar Transit,warehouse associate,left wrist/hand
+WC26001398,ID,2026-04-27,Valley Transit,cashier,right shoulder;left wrist/hand
+WC26001404,KY,2025-10-19,Bluff Retail,cashier,right shoulder;right knee;left shoulder
+WC26001410,NM,2025-07-02,Granite Foods,cashier,thoracic spine
+WC26001420,SC,2026-01-22,Ridge Foods,line operator,head
+WC26001426,ID,2025-09-30,Ridge Logistics,cashier,lumbar spine
+WC26001431,ID,2025-06-20,Cedar Retail,line operator,left wrist/hand;head;right wrist/hand
+WC26001441,NM,2025-07-18,Birch Manufacturing,driver,left knee
+WC26001444,SC,2025-10-26,Prairie Retail,custodian,right knee;left shoulder;head
+WC26001452,ID,2025-10-18,Lakeside Transit,cashier,lumbar spine
+WC26001460,KY,2026-01-14,Birch Manufacturing,custodian,lumbar spine;left knee
+WC26001463,NM,2026-01-29,Pioneer Foods,warehouse associate,right wrist/hand;cervical spine;left knee
+WC26001474,SC,2025-11-20,Lakeside Retail,cashier,lumbar spine
+WC26001481,ID,2025-11-20,Prairie Transit,driver,right knee
+WC26001489,KY,2025-11-08,Alder Logistics,cashier,left shoulder
+WC26001496,NM,2025-09-12,Birch Builders,cashier,cervical spine
+WC26001504,SC,2025-07-22,Harbor Transit,cashier,right knee;left wrist/hand
+WC26001508,ID,2025-08-12,Birch Foods,driver,cervical spine
+WC26001516,KY,2025-08-03,Birch Foods,carpenter,head
+WC26001520,NM,2026-03-24,Pioneer Health,warehouse associate,lumbar spine;left shoulder;right knee
+WC26001529,SC,2026-04-08,Granite Foods,driver,right shoulder
+WC26001534,ID,2026-03-01,Birch Logistics,driver,right shoulder;left knee
+WC26001546,KY,2025-09-30,Bluff Health,custodian,lumbar spine;right shoulder
+WC26001548,NM,2025-07-29,Prairie Health,carpenter,left shoulder;right shoulder;thoracic spine
+WC26001554,NM,2025-11-22,Summit Builders,line operator,lumbar spine
+WC26001567,ID,2025-08-11,Valley Health,line operator,left knee;left wrist/hand
+WC26001571,KY,2026-05-11,Lakeside Manufacturing,line operator,left shoulder
+WC26001580,NM,2025-10-29,Ridge Builders,warehouse associate,lumbar spine;head;left shoulder
+WC26001588,ID,2025-06-26,Valley Transit,electrician,left wrist/hand;left knee
+WC26001590,ID,2025-10-29,Cedar Transit,custodian,head;lumbar spine
+WC26001598,KY,2026-04-08,Birch Health,line operator,left shoulder
+WC26001607,NM,2026-04-14,Prairie Transit,custodian,left shoulder
+WC26001613,SC,2025-09-03,Bluff Transit,carpenter,left knee;right knee
+WC26001623,ID,2026-01-27,Valley Builders,driver,right knee
+WC26001625,KY,2026-03-14,Canyon Builders,cashier,cervical spine
+WC26001632,NM,2025-08-12,Summit Transit,carpenter,left knee
+WC26001639,SC,2025-07-23,Granite Logistics,carpenter,cervical spine;right knee
+WC26001645,ID,2026-02-03,Riverbend Builders,electrician,left shoulder
+WC26001655,KY,2025-09-19,Summit Foods,electrician,lumbar spine
+WC26001664,NM,2025-12-12,Bluff Transit,electrician,right wrist/hand;thoracic spine;lumbar spine
+WC26001666,SC,2026-03-03,Canyon Transit,custodian,head
+WC26001673,ID,2025-07-22,Pioneer Foods,driver,cervical spine
+WC26001682,KY,2025-10-28,Lakeside Manufacturing,carpenter,lumbar spine;left wrist/hand
+WC26001690,NM,2025-06-08,Harbor Logistics,custodian,right shoulder;head
+WC26001695,SC,2026-05-02,Canyon Transit,custodian,left wrist/hand;left shoulder
+WC26001705,ID,2025-08-05,Pioneer Foods,cashier,right shoulder
+WC26001708,KY,2026-05-04,Bluff Builders,nurse aide,head;left wrist/hand
+WC26001717,NM,2026-04-29,Lakeside Builders,driver,lumbar spine
+WC26001724,SC,2026-04-17,Summit Transit,warehouse associate,left shoulder
+WC26001735,ID,2026-01-12,Harbor Foods,line operator,lumbar spine
+WC26001738,ID,2025-11-24,Harbor Retail,nurse aide,left shoulder
+WC26001745,NM,2025-11-03,Riverbend Foods,electrician,lumbar spine;right wrist/hand
+WC26001750,SC,2025-12-09,Valley Logistics,nurse aide,lumbar spine
+WC26001763,ID,2026-05-01,Alder Manufacturing,warehouse associate,left wrist/hand;right knee
+WC26001765,KY,2026-04-12,Harbor Transit,line operator,right knee;left wrist/hand;head
+WC26001772,NM,2026-04-03,Harbor Transit,electrician,lumbar spine;head
+WC26001780,SC,2025-09-01,Canyon Manufacturing,driver,cervical spine;right wrist/hand
+WC26001787,ID,2025-09-01,Summit Builders,nurse aide,head;lumbar spine
+WC26001796,KY,2025-07-30,Canyon Transit,line operator,lumbar spine;cervical spine
+WC26001799,NM,2025-07-31,Bluff Retail,nurse aide,right shoulder
+WC26001807,SC,2025-12-13,Summit Builders,electrician,right wrist/hand;lumbar spine
+WC26001818,ID,2025-12-03,Riverbend Retail,custodian,lumbar spine
+WC26001822,KY,2026-04-09,Summit Transit,driver,right shoulder;right knee;lumbar spine
+WC26001833,NM,2025-07-30,Valley Logistics,driver,left wrist/hand
+WC26001836,SC,2025-11-07,Riverbend Manufacturing,carpenter,lumbar spine;left shoulder
+WC26001841,ID,2025-10-07,Cedar Builders,driver,thoracic spine;head
+WC26001849,ID,2026-05-06,Bluff Manufacturing,cashier,right shoulder
+WC26001859,NM,2026-05-25,Granite Retail,electrician,right knee;right shoulder;cervical spine
+WC26001864,SC,2026-01-14,Lakeside Transit,driver,right wrist/hand;thoracic spine
+WC26001875,ID,2025-09-12,Summit Retail,custodian,left wrist/hand;thoracic spine
+WC26001876,KY,2026-03-04,Canyon Manufacturing,driver,right knee
+WC26001883,NM,2025-12-09,Canyon Health,warehouse associate,lumbar spine
+WC26001895,SC,2025-09-01,Alder Builders,carpenter,left shoulder
+WC26001898,ID,2025-10-11,Birch Health,cashier,thoracic spine;right shoulder;lumbar spine
+WC26001909,KY,2025-12-03,Valley Manufacturing,line operator,left knee
+WC26001914,SC,2025-09-27,Granite Builders,driver,left knee
+WC26001921,SC,2026-04-04,Meadow Manufacturing,cashier,cervical spine
+WC26001928,ID,2025-09-26,Alder Retail,carpenter,thoracic spine;head
+WC26001938,KY,2025-06-12,Pioneer Manufacturing,custodian,cervical spine
+WC26001939,NM,2026-02-28,Canyon Manufacturing,carpenter,head
+WC26001952,SC,2026-03-08,Canyon Logistics,driver,left wrist/hand;lumbar spine;right wrist/hand
+WC26001959,ID,2026-04-08,Summit Builders,electrician,left shoulder
+WC26001961,KY,2026-05-28,Bluff Builders,electrician,lumbar spine;thoracic spine;left knee
+WC26001969,NM,2026-01-01,Lakeside Foods,nurse aide,left shoulder
+WC26001980,SC,2025-08-16,Canyon Retail,nurse aide,lumbar spine
+WC26001983,ID,2025-10-29,Canyon Retail,carpenter,right knee
+WC26001990,KY,2025-07-15,Alder Manufacturing,carpenter,left wrist/hand;head
+WC26001996,NM,2025-12-31,Meadow Transit,driver,head
+WC26002004,SC,2025-12-04,Canyon Builders,carpenter,right shoulder;left knee;left wrist/hand
+WC26002014,ID,2026-04-29,Alder Foods,line operator,cervical spine
+WC26002022,KY,2025-06-17,Alder Health,carpenter,right shoulder;lumbar spine
+WC26002026,NM,2025-10-05,Bluff Transit,line operator,right knee
+WC26002030,SC,2026-01-12,Birch Health,cashier,head;right shoulder
+WC26002038,ID,2026-01-18,Summit Transit,driver,right wrist/hand
+WC26002045,KY,2025-11-15,Ridge Builders,carpenter,right shoulder;right wrist/hand
+WC26002051,NM,2025-10-15,Birch Logistics,line operator,lumbar spine;thoracic spine
+WC26002063,SC,2026-03-06,Birch Retail,nurse aide,left wrist/hand
+WC26002067,ID,2025-07-13,Alder Retail,carpenter,lumbar spine
+WC26002075,KY,2025-06-28,Granite Transit,cashier,head
+WC26002084,NM,2025-10-22,Granite Health,electrician,cervical spine;right shoulder;right wrist/hand
+WC26002090,SC,2026-01-16,Pioneer Retail,electrician,left wrist/hand
+WC26002095,ID,2025-06-18,Canyon Retail,carpenter,left shoulder
+WC26002104,KY,2025-10-15,Granite Transit,warehouse associate,left knee;right wrist/hand
+WC26002108,NM,2025-08-06,Granite Foods,electrician,lumbar spine;right wrist/hand
+WC26002118,SC,2026-02-23,Canyon Retail,electrician,cervical spine;head
+WC26002122,ID,2025-10-21,Granite Health,driver,cervical spine
+WC26002133,KY,2025-06-22,Alder Builders,carpenter,right shoulder
+WC26002139,NM,2026-05-06,Alder Builders,nurse aide,right wrist/hand;cervical spine
+WC26002146,SC,2025-11-16,Riverbend Health,warehouse associate,left knee;cervical spine
+WC26002155,ID,2025-08-06,Meadow Logistics,electrician,left knee
+WC26002162,KY,2026-01-17,Meadow Foods,custodian,left wrist/hand
+WC26002168,NM,2026-03-23,Birch Manufacturing,driver,right wrist/hand
+WC26002175,SC,2025-12-28,Ridge Foods,custodian,left knee;left wrist/hand
+WC26002178,ID,2025-08-23,Riverbend Health,custodian,head;thoracic spine
+WC26002190,KY,2025-11-18,Canyon Health,electrician,right shoulder;left shoulder
+WC26002195,NM,2026-03-08,Birch Builders,cashier,left shoulder;right shoulder
+WC26002199,ID,2026-05-08,Granite Retail,cashier,right knee;right shoulder
+WC26002207,ID,2025-11-26,Harbor Retail,cashier,left shoulder;left wrist/hand;thoracic spine
+WC26002217,KY,2025-06-23,Valley Builders,carpenter,cervical spine;right knee
+WC26002222,NM,2026-01-23,Cedar Foods,warehouse associate,right knee
+WC26002228,SC,2026-03-26,Harbor Health,carpenter,right shoulder
+WC26002237,ID,2026-04-22,Harbor Manufacturing,driver,cervical spine;right shoulder
+WC26002240,KY,2026-01-26,Pioneer Transit,line operator,lumbar spine
+WC26002251,NM,2025-11-25,Birch Logistics,driver,left shoulder
+WC26002254,SC,2025-06-21,Cedar Manufacturing,warehouse associate,right shoulder;head;thoracic spine
+WC26002266,ID,2025-11-24,Harbor Manufacturing,custodian,lumbar spine;head
+WC26002269,KY,2026-03-27,Valley Foods,driver,right shoulder
+WC26002281,SC,2025-08-18,Alder Builders,nurse aide,left knee;right shoulder
+WC26002286,SC,2025-08-17,Summit Manufacturing,cashier,left shoulder;cervical spine;left knee
+WC26002290,KY,2026-05-01,Pioneer Retail,carpenter,right knee;left shoulder
+WC26002297,KY,2026-05-15,Cedar Transit,cashier,lumbar spine;left knee
+WC26002307,NM,2026-03-22,Cedar Health,driver,right knee
+WC26002311,SC,2026-05-18,Valley Manufacturing,driver,thoracic spine
+WC26002318,ID,2025-12-25,Valley Manufacturing,nurse aide,lumbar spine
+WC26002326,KY,2025-09-13,Birch Transit,warehouse associate,right wrist/hand;right shoulder
+WC26002336,NM,2025-06-14,Granite Transit,custodian,head
+WC26002342,SC,2025-10-28,Cedar Retail,electrician,right shoulder;left wrist/hand
+WC26002350,KY,2025-07-11,Granite Retail,carpenter,left knee
+WC26002357,KY,2026-03-30,Riverbend Transit,line operator,cervical spine;head
+WC26002360,NM,2025-08-05,Prairie Logistics,nurse aide,right shoulder
+WC26002371,SC,2025-06-14,Ridge Builders,line operator,lumbar spine
+WC26002377,ID,2025-06-06,Canyon Builders,custodian,right shoulder;left wrist/hand;right wrist/hand
+WC26002385,KY,2026-05-14,Valley Builders,electrician,lumbar spine
+WC26002389,NM,2026-04-16,Lakeside Transit,cashier,left wrist/hand
+WC26002399,SC,2025-11-08,Riverbend Transit,warehouse associate,lumbar spine;right shoulder
+WC26002403,ID,2026-01-05,Bluff Transit,cashier,head;lumbar spine
+WC26002410,KY,2025-12-25,Granite Retail,electrician,lumbar spine
+WC26002418,NM,2026-02-05,Riverbend Retail,driver,right shoulder;right wrist/hand
+WC26002425,SC,2026-01-14,Ridge Manufacturing,nurse aide,lumbar spine;cervical spine
+WC26002430,ID,2025-06-10,Lakeside Retail,cashier,left shoulder;lumbar spine
+WC26002439,KY,2025-09-28,Summit Builders,carpenter,right wrist/hand
+WC26002448,NM,2025-07-23,Birch Logistics,carpenter,lumbar spine;left shoulder
+WC26002455,SC,2025-08-01,Bluff Health,nurse aide,right wrist/hand;thoracic spine
+WC26002461,ID,2025-08-28,Summit Manufacturing,carpenter,cervical spine;left wrist/hand
+WC26002466,KY,2025-06-30,Riverbend Builders,nurse aide,lumbar spine;cervical spine
+WC26002475,NM,2026-03-11,Granite Builders,electrician,left knee
+WC26002478,SC,2025-08-10,Birch Retail,custodian,left shoulder;left wrist/hand
+WC26002489,ID,2025-12-16,Cedar Builders,warehouse associate,lumbar spine
+WC26002497,KY,2026-03-11,Summit Retail,nurse aide,lumbar spine
+WC26002501,ID,2026-03-03,Riverbend Retail,cashier,left knee
+WC26002512,SC,2026-02-07,Harbor Foods,warehouse associate,cervical spine
+WC26002517,ID,2025-08-03,Harbor Builders,line operator,left knee
+WC26002524,KY,2026-04-26,Alder Manufacturing,cashier,right shoulder
+WC26002530,NM,2025-08-24,Prairie Logistics,carpenter,right wrist/hand;lumbar spine
+WC26002540,SC,2025-11-05,Pioneer Transit,driver,left shoulder
+WC26002541,ID,2025-10-31,Prairie Foods,warehouse associate,right shoulder;cervical spine
+WC26002554,ID,2025-07-17,Cedar Manufacturing,electrician,lumbar spine;left shoulder
+WC26002558,NM,2025-09-09,Ridge Logistics,carpenter,head;left wrist/hand;left shoulder
+WC26002567,SC,2026-05-22,Valley Builders,nurse aide,left knee;head
+WC26002569,ID,2025-08-10,Prairie Manufacturing,electrician,cervical spine;right wrist/hand
+WC26002582,KY,2025-10-27,Granite Retail,custodian,lumbar spine;left shoulder
+WC26002587,NM,2025-09-13,Bluff Retail,cashier,right shoulder;left wrist/hand
+WC26002594,SC,2026-04-30,Birch Builders,cashier,right knee
+WC26002602,ID,2025-10-27,Valley Manufacturing,custodian,lumbar spine;head;cervical spine
+WC26002608,KY,2026-02-22,Prairie Health,custodian,right knee;right shoulder
+WC26002617,NM,2025-07-18,Birch Builders,driver,lumbar spine
+WC26002624,SC,2025-08-08,Summit Logistics,nurse aide,lumbar spine;thoracic spine
+WC26002631,ID,2026-04-26,Canyon Builders,custodian,cervical spine;head
+WC26002634,KY,2026-02-09,Alder Builders,line operator,head;lumbar spine
+WC26002645,NM,2026-02-11,Bluff Logistics,nurse aide,thoracic spine
+WC26002649,SC,2025-08-29,Valley Health,carpenter,left shoulder;cervical spine;right wrist/hand
+WC26002657,ID,2025-11-29,Harbor Logistics,line operator,left shoulder
+WC26002664,KY,2026-03-11,Cedar Foods,line operator,left knee;lumbar spine
+WC26002671,ID,2025-07-12,Summit Health,warehouse associate,right knee
+WC26002679,SC,2026-05-15,Bluff Builders,warehouse associate,cervical spine;thoracic spine;right wrist/hand
+WC26002681,ID,2026-04-22,Granite Transit,warehouse associate,left shoulder;thoracic spine
+WC26002693,ID,2025-11-02,Bluff Retail,custodian,left shoulder
+WC26002697,NM,2025-09-30,Bluff Logistics,electrician,left wrist/hand
+WC26002704,SC,2026-02-05,Lakeside Builders,driver,cervical spine;lumbar spine
+WC26002714,ID,2025-08-11,Harbor Manufacturing,custodian,right wrist/hand;left knee
+WC26002717,KY,2025-07-13,Summit Manufacturing,line operator,cervical spine;right wrist/hand
+WC26002725,NM,2026-01-31,Valley Logistics,cashier,lumbar spine;left wrist/hand
+WC26002731,SC,2026-05-06,Canyon Retail,cashier,left shoulder
+WC26002741,ID,2025-07-09,Granite Health,line operator,lumbar spine
+WC26002748,KY,2025-11-17,Prairie Logistics,carpenter,lumbar spine;right shoulder
+WC26002753,NM,2026-01-31,Lakeside Builders,driver,right shoulder
+WC26002762,SC,2025-11-11,Prairie Transit,warehouse associate,left shoulder;left knee
+WC26002768,ID,2026-04-19,Lakeside Transit,electrician,lumbar spine
+WC26002773,KY,2026-01-29,Valley Builders,line operator,lumbar spine
+WC26002784,NM,2026-05-23,Birch Health,driver,right knee
+WC26002789,SC,2026-02-05,Birch Builders,electrician,right shoulder
+WC26002795,ID,2025-11-05,Riverbend Transit,driver,left wrist/hand
+WC26002806,KY,2025-07-30,Riverbend Transit,custodian,cervical spine
+WC26002811,NM,2026-01-20,Ridge Retail,cashier,left wrist/hand;head
+WC26002817,SC,2026-01-25,Pioneer Transit,custodian,right knee;cervical spine
+WC26002822,SC,2026-04-21,Meadow Logistics,driver,cervical spine
+WC26002828,KY,2026-01-12,Riverbend Manufacturing,electrician,right wrist/hand
+WC26002837,NM,2025-10-07,Granite Transit,nurse aide,right shoulder;lumbar spine
+WC26002844,ID,2025-11-21,Harbor Foods,cashier,left knee
+WC26002850,ID,2026-05-06,Granite Logistics,cashier,right wrist/hand;left wrist/hand
+WC26002856,KY,2025-10-01,Pioneer Retail,driver,lumbar spine;head;left wrist/hand
+WC26002863,NM,2026-01-16,Granite Transit,electrician,cervical spine
+WC26002872,SC,2026-03-30,Pioneer Foods,custodian,right knee;head;cervical spine
+WC26002878,ID,2025-12-25,Riverbend Foods,cashier,right knee;thoracic spine
+WC26002888,KY,2025-06-25,Pioneer Retail,line operator,cervical spine
+WC26002896,NM,2026-01-09,Valley Logistics,line operator,head;lumbar spine
+WC26002902,SC,2025-09-10,Pioneer Transit,warehouse associate,lumbar spine;left wrist/hand;cervical spine
+WC26002907,ID,2026-05-15,Alder Logistics,line operator,right shoulder;cervical spine
+WC26002917,KY,2025-09-09,Ridge Retail,line operator,left shoulder;left knee
+WC26002923,NM,2025-07-01,Bluff Retail,driver,left shoulder;lumbar spine
+WC26002932,SC,2025-12-22,Riverbend Health,line operator,right shoulder
+WC26002938,ID,2026-02-09,Valley Retail,electrician,cervical spine
+WC26002943,KY,2025-09-26,Lakeside Retail,driver,left wrist/hand
+WC26002953,NM,2026-02-12,Lakeside Health,nurse aide,lumbar spine
+WC26002957,SC,2025-09-18,Prairie Transit,carpenter,left shoulder
+WC26002961,ID,2025-09-23,Harbor Retail,electrician,head
+WC26002969,KY,2025-07-12,Alder Builders,cashier,right wrist/hand
+WC26002981,NM,2026-05-02,Granite Retail,driver,lumbar spine
+WC26002988,SC,2025-06-17,Pioneer Logistics,electrician,lumbar spine
+WC26002992,ID,2026-03-24,Lakeside Health,line operator,lumbar spine
+WC26003000,KY,2025-11-05,Riverbend Logistics,nurse aide,head
+WC26003004,NM,2026-02-12,Canyon Foods,line operator,left shoulder
+WC26003012,SC,2026-04-25,Pioneer Foods,carpenter,right wrist/hand
+WC26003022,SC,2026-03-27,Harbor Health,warehouse associate,right shoulder
+WC26003025,NM,2025-10-26,Valley Health,cashier,left shoulder;right wrist/hand
+WC26003031,NM,2026-05-09,Harbor Transit,warehouse associate,thoracic spine;right knee
+WC26003040,SC,2026-04-10,Riverbend Manufacturing,driver,left shoulder;thoracic spine
+WC26003048,ID,2026-05-20,Pioneer Foods,carpenter,cervical spine;lumbar spine
+WC26003056,KY,2025-07-27,Bluff Health,electrician,head;right knee;thoracic spine
+WC26003061,ID,2025-11-15,Granite Builders,nurse aide,lumbar spine;cervical spine
+WC26003072,NM,2025-09-01,Lakeside Transit,cashier,right shoulder;right knee;thoracic spine
+WC26003075,ID,2026-01-11,Birch Transit,cashier,left shoulder
+WC26003083,SC,2025-08-06,Harbor Manufacturing,nurse aide,cervical spine
+WC26003091,NM,2025-10-09,Pioneer Logistics,carpenter,right knee
+WC26003094,SC,2025-06-13,Prairie Manufacturing,driver,cervical spine
+WC26003102,KY,2026-02-07,Riverbend Logistics,nurse aide,head
+WC26003111,KY,2026-01-10,Summit Builders,driver,right shoulder
+WC26003121,NM,2026-04-10,Prairie Foods,carpenter,left shoulder
+WC26003123,SC,2026-01-16,Lakeside Transit,electrician,left knee;right knee;left wrist/hand
+WC26003133,ID,2025-12-03,Canyon Manufacturing,driver,left shoulder;thoracic spine
+WC26003140,KY,2026-04-14,Riverbend Health,line operator,head;right shoulder
+WC26003144,NM,2025-09-14,Canyon Retail,electrician,left shoulder;thoracic spine;head
+WC26003152,SC,2025-08-19,Prairie Foods,driver,left wrist/hand
+WC26003158,ID,2025-11-05,Birch Logistics,warehouse associate,right shoulder;cervical spine;left wrist/hand
+WC26003170,KY,2026-02-13,Summit Builders,driver,lumbar spine
+WC26003171,NM,2026-05-18,Canyon Retail,carpenter,head;cervical spine
+WC26003184,SC,2026-04-05,Granite Logistics,custodian,thoracic spine;right wrist/hand
+WC26003185,ID,2026-04-19,Granite Foods,custodian,right shoulder
+WC26003198,KY,2025-11-29,Pioneer Health,electrician,right wrist/hand
+WC26003203,NM,2025-08-15,Alder Builders,custodian,left wrist/hand
+WC26003206,SC,2025-10-25,Cedar Transit,cashier,left shoulder
+WC26003218,ID,2025-07-18,Valley Foods,warehouse associate,lumbar spine;head
+WC26003224,KY,2025-08-20,Birch Transit,nurse aide,lumbar spine;right knee
+WC26003229,NM,2025-07-07,Riverbend Health,electrician,lumbar spine
+WC26003240,SC,2025-08-30,Birch Foods,carpenter,left knee
+WC26003247,ID,2026-05-20,Pioneer Health,warehouse associate,lumbar spine;left wrist/hand
+WC26003253,KY,2026-02-21,Granite Manufacturing,warehouse associate,lumbar spine
+WC26003261,NM,2025-09-21,Lakeside Retail,warehouse associate,right shoulder
+WC26003266,SC,2026-02-25,Alder Health,cashier,lumbar spine
+WC26003272,ID,2026-04-30,Valley Manufacturing,driver,left knee;left shoulder
+WC26003276,KY,2026-04-27,Cedar Builders,cashier,right knee
+WC26003288,NM,2025-10-18,Valley Foods,custodian,cervical spine;thoracic spine
+WC26003294,SC,2025-08-17,Harbor Transit,electrician,right knee
+WC26003300,ID,2026-01-14,Birch Manufacturing,driver,right wrist/hand
+WC26003305,KY,2026-03-31,Ridge Foods,warehouse associate,left shoulder
+WC26003315,NM,2026-03-06,Summit Foods,custodian,right shoulder;left shoulder
+WC26003320,SC,2025-11-19,Birch Logistics,custodian,right shoulder;left knee
+WC26003329,ID,2026-03-26,Summit Manufacturing,custodian,lumbar spine;cervical spine
+WC26003333,KY,2025-10-18,Pioneer Transit,nurse aide,head
+WC26003342,NM,2025-07-13,Ridge Logistics,custodian,head
+WC26003346,SC,2025-10-13,Granite Transit,custodian,right shoulder;left knee
+WC26003359,ID,2025-12-23,Bluff Builders,line operator,lumbar spine;cervical spine;left shoulder
+WC26003364,KY,2026-04-06,Valley Manufacturing,line operator,head
+WC26003372,NM,2026-04-24,Harbor Logistics,warehouse associate,left shoulder;right wrist/hand
+WC26003375,SC,2025-08-20,Prairie Transit,nurse aide,right wrist/hand
+WC26003381,ID,2025-06-06,Valley Transit,warehouse associate,left shoulder;right wrist/hand;cervical spine
+WC26003394,KY,2026-05-16,Cedar Health,cashier,left knee
+WC26003395,ID,2025-12-23,Harbor Health,cashier,right knee;left wrist/hand
+WC26003407,SC,2026-05-08,Summit Transit,driver,head;right shoulder
+WC26003415,ID,2026-01-17,Granite Builders,line operator,left knee
+WC26003420,KY,2026-01-12,Birch Foods,custodian,thoracic spine
+WC26003424,NM,2025-08-01,Bluff Health,custodian,right knee
+WC26003431,SC,2025-11-23,Granite Retail,carpenter,right knee;left shoulder
+WC26003442,ID,2026-05-05,Alder Logistics,nurse aide,left knee;thoracic spine
+WC26003444,KY,2026-01-14,Valley Retail,carpenter,thoracic spine;left wrist/hand
+WC26003455,NM,2025-11-14,Bluff Logistics,electrician,left wrist/hand;right knee
+WC26003464,SC,2026-02-08,Prairie Builders,electrician,lumbar spine;left knee
+WC26003468,ID,2026-03-26,Lakeside Health,nurse aide,lumbar spine
+WC26003476,KY,2025-12-27,Summit Manufacturing,driver,right shoulder;lumbar spine
+WC26003482,NM,2026-03-09,Ridge Retail,nurse aide,lumbar spine
+WC26003487,SC,2026-04-28,Cedar Manufacturing,line operator,right shoulder
+WC26003496,ID,2026-03-24,Summit Logistics,carpenter,right shoulder
+WC26003504,KY,2026-05-27,Cedar Builders,carpenter,right knee;thoracic spine
+WC26003511,NM,2025-11-26,Riverbend Health,carpenter,head
+WC26003515,SC,2025-11-24,Prairie Health,driver,right shoulder
+WC26003526,ID,2026-03-06,Cedar Logistics,nurse aide,left shoulder;thoracic spine
+WC26003528,KY,2025-09-25,Lakeside Foods,driver,lumbar spine
+WC26003535,NM,2025-09-17,Pioneer Logistics,custodian,right knee
+WC26003548,SC,2025-07-19,Cedar Builders,carpenter,cervical spine;left wrist/hand;right wrist/hand
+WC26003551,ID,2026-05-21,Lakeside Manufacturing,electrician,cervical spine;head;right knee
+WC26003559,KY,2025-10-25,Canyon Retail,nurse aide,head;right wrist/hand
+WC26003567,SC,2025-10-26,Riverbend Foods,line operator,right shoulder;left wrist/hand
+WC26003570,SC,2025-10-15,Meadow Builders,custodian,left wrist/hand;left shoulder
+WC26003580,ID,2026-04-21,Granite Logistics,cashier,left shoulder;left knee
+WC26003589,KY,2026-04-13,Cedar Logistics,custodian,right knee
+WC26003597,NM,2026-03-09,Summit Foods,driver,left knee
+WC26003601,SC,2025-08-17,Lakeside Builders,warehouse associate,lumbar spine;right shoulder;cervical spine
+WC26003610,ID,2025-10-02,Granite Retail,custodian,right knee;left shoulder
+WC26003615,KY,2026-01-23,Ridge Manufacturing,driver,head;left shoulder
+WC26003624,NM,2026-04-11,Valley Retail,warehouse associate,right knee;cervical spine
+WC26003628,SC,2025-10-17,Alder Foods,electrician,left wrist/hand
+WC26003635,ID,2025-06-21,Cedar Manufacturing,warehouse associate,thoracic spine
+WC26003644,NM,2025-09-12,Cedar Health,custodian,right knee
+WC26003649,NM,2026-04-10,Bluff Foods,electrician,right wrist/hand;left shoulder
+WC26003655,SC,2025-11-30,Canyon Health,driver,lumbar spine
+WC26003667,ID,2026-03-13,Alder Manufacturing,nurse aide,lumbar spine;left shoulder;right knee
+WC26003671,KY,2025-10-18,Pioneer Retail,custodian,left wrist/hand;left shoulder;lumbar spine
+WC26003680,NM,2025-10-04,Granite Logistics,line operator,left wrist/hand;left shoulder
+WC26003687,SC,2025-06-25,Lakeside Builders,warehouse associate,right wrist/hand;left wrist/hand;left knee
+WC26003689,ID,2026-05-17,Birch Transit,warehouse associate,thoracic spine
+WC26003700,KY,2026-01-05,Canyon Foods,cashier,right wrist/hand
+WC26003704,NM,2025-08-19,Lakeside Transit,custodian,right knee;right wrist/hand
+WC26003710,SC,2026-02-23,Cedar Health,carpenter,lumbar spine
+WC26003719,ID,2025-07-19,Alder Builders,custodian,lumbar spine;cervical spine
+WC26003729,KY,2025-10-28,Riverbend Builders,nurse aide,left knee;right shoulder
+WC26003735,NM,2025-07-08,Lakeside Manufacturing,line operator,lumbar spine
+WC26003741,SC,2025-09-27,Pioneer Manufacturing,line operator,head;left wrist/hand
+WC26003751,ID,2025-10-13,Prairie Health,cashier,left wrist/hand;right knee
+WC26003757,KY,2026-04-30,Ridge Builders,driver,cervical spine;right shoulder
+WC26003761,SC,2025-06-23,Riverbend Transit,electrician,cervical spine
+WC26003770,SC,2025-09-10,Granite Manufacturing,warehouse associate,lumbar spine;thoracic spine
+WC26003774,ID,2025-11-01,Granite Health,cashier,thoracic spine
+WC26003781,KY,2026-02-23,Lakeside Logistics,custodian,right knee
+WC26003789,NM,2025-07-19,Harbor Logistics,driver,left wrist/hand
+WC26003795,SC,2026-02-21,Valley Foods,carpenter,left shoulder
+WC26003804,ID,2026-01-14,Harbor Builders,carpenter,left wrist/hand;head
+WC26003808,KY,2025-08-11,Bluff Retail,custodian,left knee
+WC26003816,NM,2025-08-13,Birch Retail,line operator,right knee;thoracic spine
+WC26003823,SC,2025-08-27,Bluff Builders,warehouse associate,right wrist/hand
+WC26003831,ID,2025-06-21,Harbor Transit,cashier,lumbar spine;right wrist/hand
+WC26003841,KY,2025-09-18,Granite Manufacturing,cashier,left shoulder
+WC26003845,NM,2025-08-25,Lakeside Builders,nurse aide,cervical spine
+WC26003852,SC,2025-08-05,Bluff Manufacturing,driver,right wrist/hand
+WC26003859,ID,2026-02-22,Birch Transit,custodian,right knee;cervical spine
+WC26003864,KY,2026-05-22,Pioneer Logistics,driver,lumbar spine
+WC26003873,NM,2026-03-21,Granite Transit,cashier,right knee;left knee
+WC26003881,SC,2025-12-09,Meadow Foods,electrician,cervical spine;right knee
+WC26003891,ID,2026-02-24,Harbor Transit,line operator,lumbar spine;left wrist/hand
+WC26003896,KY,2026-02-28,Riverbend Manufacturing,carpenter,right knee
+WC26003900,NM,2025-06-06,Alder Manufacturing,nurse aide,right wrist/hand
+WC26003910,SC,2026-02-09,Riverbend Health,electrician,lumbar spine
+WC26003913,KY,2026-02-05,Riverbend Foods,cashier,right knee;cervical spine
+WC26003926,KY,2026-05-18,Birch Transit,carpenter,thoracic spine;left knee
+WC26003929,NM,2026-03-06,Summit Health,driver,thoracic spine;cervical spine;right wrist/hand
+WC26003940,SC,2025-08-05,Canyon Transit,custodian,right shoulder;left shoulder
+WC26003946,ID,2025-06-06,Birch Health,warehouse associate,lumbar spine;right shoulder;left knee
+WC26003949,KY,2025-09-16,Lakeside Foods,electrician,left knee
+WC26003961,NM,2025-11-17,Ridge Logistics,driver,cervical spine;thoracic spine
+WC26003964,SC,2025-12-29,Summit Manufacturing,line operator,right knee;cervical spine
+WC26003970,ID,2025-09-08,Prairie Retail,line operator,right shoulder
+WC26003978,KY,2025-09-21,Bluff Logistics,line operator,cervical spine;lumbar spine
+WC26003989,NM,2025-11-27,Birch Logistics,warehouse associate,left knee;thoracic spine
+WC26003994,SC,2026-02-13,Lakeside Retail,cashier,lumbar spine;left shoulder
+WC26004002,ID,2025-11-30,Cedar Foods,cashier,head;thoracic spine
+WC26004006,KY,2025-10-04,Granite Foods,carpenter,lumbar spine;right shoulder
+WC26004013,NM,2026-05-29,Birch Retail,carpenter,cervical spine;thoracic spine
+WC26004021,SC,2025-12-21,Bluff Transit,custodian,thoracic spine
+WC26004026,ID,2026-03-25,Summit Logistics,cashier,right shoulder
+WC26004036,KY,2026-04-15,Pioneer Builders,cashier,cervical spine;right knee
+WC26004045,NM,2025-06-21,Birch Foods,custodian,lumbar spine;right wrist/hand
+WC26004051,SC,2025-12-24,Granite Transit,carpenter,lumbar spine
+WC26004056,ID,2026-03-21,Canyon Foods,nurse aide,head
+WC26004066,KY,2025-07-05,Harbor Manufacturing,driver,cervical spine
+WC26004072,NM,2026-02-10,Summit Transit,warehouse associate,right knee
+WC26004076,SC,2026-04-25,Summit Retail,nurse aide,right knee;left knee
+WC26004083,ID,2026-03-24,Prairie Foods,driver,lumbar spine
+WC26004089,KY,2025-10-13,Summit Health,nurse aide,right shoulder;right wrist/hand
+WC26004097,NM,2025-09-20,Pioneer Manufacturing,nurse aide,lumbar spine
+WC26004108,SC,2025-10-28,Canyon Transit,line operator,head
+WC26004114,ID,2025-06-30,Lakeside Retail,warehouse associate,lumbar spine;right knee
+WC26004119,KY,2025-10-15,Summit Manufacturing,warehouse associate,right shoulder;left wrist/hand;head
+WC26004123,NM,2025-10-29,Summit Transit,custodian,right knee
+WC26004136,SC,2025-06-04,Alder Retail,custodian,cervical spine;right wrist/hand
+WC26004140,ID,2025-07-14,Birch Foods,driver,left knee
+WC26004147,KY,2025-07-14,Cedar Foods,custodian,lumbar spine
+WC26004153,NM,2025-07-25,Meadow Logistics,warehouse associate,left shoulder
+WC26004161,SC,2025-12-28,Birch Builders,custodian,right knee
+WC26004169,ID,2025-11-04,Alder Transit,carpenter,cervical spine
+WC26004177,KY,2026-03-20,Ridge Manufacturing,line operator,left wrist/hand;left shoulder
+WC26004182,NM,2026-02-25,Pioneer Transit,custodian,right shoulder
+WC26004188,SC,2026-02-27,Canyon Logistics,driver,right knee
+WC26004196,ID,2026-03-11,Ridge Transit,custodian,lumbar spine
+WC26004201,NM,2026-04-11,Granite Foods,line operator,right wrist/hand
+WC26004207,NM,2026-03-24,Riverbend Health,driver,right knee;thoracic spine
+WC26004217,SC,2025-10-05,Meadow Retail,electrician,left wrist/hand;left shoulder;head
+WC26004226,KY,2025-10-26,Alder Manufacturing,line operator,cervical spine;left shoulder
+WC26004233,KY,2025-09-03,Alder Foods,cashier,cervical spine
+WC26004237,NM,2025-09-03,Canyon Retail,nurse aide,lumbar spine;left knee;thoracic spine
+WC26004245,SC,2026-01-23,Canyon Foods,line operator,left wrist/hand
+WC26004255,ID,2026-03-23,Summit Retail,line operator,right knee;head
+WC26004260,KY,2026-02-01,Meadow Builders,line operator,right knee
+WC26004269,NM,2025-09-15,Pioneer Retail,carpenter,lumbar spine
+WC26004275,SC,2025-11-14,Bluff Builders,cashier,lumbar spine;left wrist/hand;cervical spine
+WC26004277,ID,2026-03-05,Valley Transit,cashier,left wrist/hand
+WC26004289,NM,2026-05-22,Cedar Builders,driver,left knee
+WC26004297,NM,2025-09-20,Summit Manufacturing,driver,cervical spine
+WC26004303,SC,2025-10-15,Ridge Retail,carpenter,left wrist/hand
+WC26004305,ID,2026-04-06,Birch Retail,warehouse associate,left wrist/hand;right shoulder
+WC26004317,KY,2026-01-04,Prairie Foods,cashier,right knee;right wrist/hand
+WC26004324,NM,2025-06-22,Lakeside Logistics,driver,right wrist/hand;left shoulder
+WC26004327,SC,2026-05-21,Summit Health,custodian,left knee
+WC26004339,ID,2026-02-15,Granite Retail,carpenter,cervical spine
+WC26004344,KY,2025-10-31,Birch Manufacturing,electrician,left knee;right knee
+WC26004347,NM,2025-11-01,Lakeside Manufacturing,custodian,right wrist/hand;left shoulder
+WC26004358,SC,2026-04-16,Pioneer Transit,carpenter,lumbar spine
+WC26004361,ID,2026-03-27,Cedar Retail,nurse aide,left shoulder
+WC26004370,KY,2025-11-02,Canyon Manufacturing,nurse aide,cervical spine
+WC26004375,NM,2026-02-14,Prairie Retail,cashier,left wrist/hand;left shoulder
+WC26004386,SC,2025-09-16,Summit Builders,carpenter,left knee
+WC26004391,ID,2026-04-04,Alder Builders,electrician,right knee
+WC26004398,KY,2026-01-20,Riverbend Builders,carpenter,right knee;head
+WC26004405,NM,2026-01-21,Cedar Logistics,line operator,right shoulder;cervical spine
+WC26004410,SC,2025-06-28,Pioneer Builders,carpenter,left knee
+WC26004421,ID,2025-08-15,Lakeside Logistics,driver,cervical spine
+WC26004424,SC,2026-02-21,Summit Foods,nurse aide,right knee
+WC26004431,ID,2026-03-01,Alder Logistics,line operator,right wrist/hand
+WC26004443,SC,2025-08-01,Harbor Retail,driver,left shoulder;lumbar spine
+WC26004451,ID,2025-09-19,Granite Foods,cashier,right knee
+WC26004458,KY,2026-04-04,Harbor Builders,electrician,left knee
+WC26004464,NM,2025-06-12,Riverbend Logistics,electrician,lumbar spine
+WC26004468,SC,2025-11-01,Granite Builders,driver,left wrist/hand
+WC26004474,SC,2026-01-19,Granite Foods,warehouse associate,left shoulder
+WC26004483,KY,2026-04-15,Bluff Logistics,custodian,right shoulder
+WC26004487,NM,2026-04-03,Pioneer Retail,electrician,right shoulder;right wrist/hand
+WC26004498,ID,2026-04-06,Meadow Transit,driver,right wrist/hand
+WC26004502,ID,2026-05-12,Alder Transit,driver,right wrist/hand
+WC26004510,KY,2025-08-09,Cedar Builders,electrician,right shoulder
+WC26004520,NM,2026-04-23,Harbor Health,custodian,lumbar spine;thoracic spine;left knee
+WC26004527,SC,2026-01-30,Granite Manufacturing,electrician,left shoulder;head
+WC26004534,ID,2026-02-01,Ridge Transit,cashier,left shoulder
+WC26004540,KY,2026-02-13,Alder Transit,driver,right knee;head
+WC26004546,NM,2025-07-25,Ridge Health,electrician,right knee;left wrist/hand;right wrist/hand
+WC26004554,SC,2026-05-05,Bluff Builders,carpenter,head
+WC26004563,ID,2026-03-17,Birch Manufacturing,custodian,left knee;left wrist/hand
+WC26004569,NM,2025-11-05,Birch Foods,driver,left wrist/hand
+WC26004574,NM,2025-06-05,Harbor Manufacturing,warehouse associate,left wrist/hand;left knee;head
+WC26004582,SC,2026-04-13,Alder Health,cashier,right shoulder;left knee
+WC26004591,ID,2025-08-18,Canyon Builders,warehouse associate,right wrist/hand;left knee
+WC26004592,KY,2026-02-06,Harbor Retail,line operator,right shoulder;left wrist/hand
+WC26004603,NM,2025-12-24,Valley Health,custodian,lumbar spine
+WC26004609,SC,2025-12-17,Riverbend Transit,electrician,lumbar spine
+WC26004614,ID,2026-05-13,Pioneer Foods,line operator,left knee
+WC26004622,KY,2025-09-02,Pioneer Health,nurse aide,left knee
+WC26004630,NM,2026-01-20,Pioneer Health,warehouse associate,right wrist/hand
+WC26004640,SC,2025-10-12,Harbor Foods,electrician,right wrist/hand;cervical spine
+WC26004646,ID,2025-10-18,Harbor Health,warehouse associate,right knee;left knee
+WC26004653,KY,2025-07-28,Birch Retail,custodian,lumbar spine
+WC26004658,NM,2025-11-12,Cedar Health,driver,right shoulder
+WC26004664,SC,2025-08-12,Valley Logistics,line operator,right wrist/hand
+WC26004670,ID,2026-04-01,Canyon Transit,warehouse associate,lumbar spine
+WC26004678,KY,2026-05-22,Harbor Builders,custodian,thoracic spine;head
+WC26004689,NM,2026-02-24,Alder Logistics,driver,left shoulder
+WC26004695,ID,2026-04-16,Lakeside Health,driver,lumbar spine;right shoulder
+WC26004698,ID,2026-05-22,Bluff Manufacturing,carpenter,right knee
+WC26004704,NM,2025-07-25,Alder Health,nurse aide,lumbar spine
+WC26004716,NM,2025-06-15,Alder Logistics,electrician,right shoulder;head
+WC26004724,SC,2025-06-03,Meadow Logistics,electrician,right knee
+WC26004726,ID,2025-07-11,Prairie Logistics,driver,left shoulder
+WC26004735,KY,2026-05-01,Harbor Builders,line operator,left knee;head
+WC26004742,NM,2025-12-02,Riverbend Transit,nurse aide,left wrist/hand;right knee
+WC26004747,SC,2025-11-16,Ridge Manufacturing,electrician,lumbar spine
+WC26004758,ID,2025-06-27,Pioneer Transit,carpenter,cervical spine
+WC26004760,ID,2025-07-14,Valley Builders,custodian,lumbar spine
+WC26004767,NM,2025-11-26,Birch Retail,nurse aide,left knee
+WC26004778,SC,2026-05-07,Birch Foods,electrician,cervical spine;left shoulder;right knee
+WC26004787,ID,2025-10-16,Cedar Foods,line operator,left knee
+WC26004794,KY,2025-11-27,Bluff Foods,custodian,right wrist/hand;lumbar spine
+WC26004799,NM,2026-01-09,Bluff Health,electrician,right shoulder;head
+WC26004807,SC,2025-08-09,Harbor Manufacturing,warehouse associate,right knee;head
+WC26004812,ID,2026-04-29,Cedar Transit,line operator,right shoulder
+WC26004818,KY,2025-11-18,Bluff Builders,electrician,left knee
+WC26004829,NM,2026-05-14,Granite Logistics,nurse aide,left knee;right knee
+WC26004832,SC,2025-09-29,Ridge Health,warehouse associate,lumbar spine;thoracic spine
+WC26004839,ID,2026-01-24,Valley Builders,driver,right shoulder;left knee
+WC26004844,KY,2026-03-30,Pioneer Manufacturing,custodian,cervical spine
+WC26004856,NM,2026-01-15,Granite Builders,carpenter,lumbar spine;thoracic spine
+WC26004860,SC,2026-01-03,Summit Builders,cashier,left knee;right knee
+WC26004866,ID,2026-05-06,Summit Logistics,custodian,right shoulder;right wrist/hand
+WC26004877,KY,2026-01-09,Granite Manufacturing,warehouse associate,thoracic spine;right wrist/hand
+WC26004880,NM,2025-09-23,Granite Retail,custodian,left knee
+WC26004887,SC,2026-03-22,Harbor Logistics,custodian,lumbar spine;cervical spine
+WC26004894,ID,2026-04-25,Riverbend Health,electrician,left shoulder
+WC26004902,KY,2026-03-08,Bluff Foods,cashier,lumbar spine
+WC26004913,NM,2026-01-25,Harbor Retail,electrician,right shoulder
+WC26004914,SC,2026-01-19,Riverbend Builders,electrician,cervical spine;left shoulder;head
+WC26004924,ID,2025-12-27,Canyon Foods,electrician,thoracic spine;left knee;left wrist/hand
+WC26004931,KY,2025-07-05,Pioneer Logistics,electrician,cervical spine;right wrist/hand
+WC26004940,NM,2025-12-05,Granite Retail,carpenter,cervical spine
+WC26004948,SC,2025-09-04,Valley Transit,warehouse associate,lumbar spine;left knee
+WC26004954,ID,2025-06-20,Harbor Health,driver,cervical spine;right wrist/hand
+WC26004957,KY,2026-04-24,Pioneer Logistics,custodian,right shoulder;cervical spine
+WC26004968,NM,2025-12-25,Ridge Health,electrician,right knee;thoracic spine
+WC26004976,SC,2025-07-02,Ridge Health,carpenter,left shoulder;lumbar spine
+WC26004977,ID,2025-09-29,Lakeside Health,warehouse associate,right shoulder;right knee
+WC26004984,SC,2025-09-08,Granite Transit,line operator,right shoulder
+WC26004996,NM,2025-12-24,Birch Builders,warehouse associate,left shoulder
+WC26005003,SC,2026-02-27,Birch Retail,cashier,cervical spine;left knee
+WC26005007,ID,2026-05-21,Alder Transit,electrician,lumbar spine;head
+WC26005015,KY,2026-04-22,Meadow Manufacturing,line operator,right wrist/hand;right knee
+WC26005022,NM,2025-07-15,Bluff Transit,custodian,left wrist/hand
+WC26005031,SC,2025-11-23,Meadow Health,line operator,left wrist/hand
+WC26005035,ID,2026-01-09,Bluff Health,nurse aide,left knee;right wrist/hand
+WC26005046,KY,2026-03-27,Cedar Logistics,carpenter,left wrist/hand;head
+WC26005052,NM,2025-09-23,Meadow Builders,carpenter,left wrist/hand;cervical spine
+WC26005060,SC,2025-11-05,Granite Transit,warehouse associate,left wrist/hand
+WC26005064,ID,2025-06-09,Canyon Health,driver,lumbar spine
+WC26005072,SC,2025-06-16,Valley Logistics,nurse aide,right knee
+WC26005078,NM,2026-05-03,Harbor Builders,warehouse associate,left shoulder
+WC26005087,SC,2025-12-20,Lakeside Retail,carpenter,right shoulder
+WC26005094,KY,2026-02-06,Cedar Logistics,warehouse associate,right wrist/hand
+WC26005100,KY,2025-12-03,Ridge Health,electrician,left shoulder;right wrist/hand
+WC26005103,NM,2025-07-11,Prairie Health,nurse aide,right shoulder
+WC26005113,SC,2025-07-06,Riverbend Transit,electrician,right shoulder
+WC26005118,SC,2026-05-05,Harbor Foods,warehouse associate,left knee;lumbar spine;head
+WC26005126,KY,2025-11-05,Meadow Manufacturing,carpenter,left shoulder;right wrist/hand
+WC26005134,NM,2026-01-25,Pioneer Manufacturing,electrician,lumbar spine
+WC26005143,SC,2025-12-18,Canyon Transit,warehouse associate,lumbar spine;left knee
+WC26005145,ID,2025-07-06,Pioneer Retail,nurse aide,right knee;left shoulder
+WC26005152,KY,2025-12-14,Birch Health,warehouse associate,lumbar spine;left knee
+WC26005159,NM,2025-10-08,Cedar Logistics,cashier,cervical spine;left knee
+WC26005168,SC,2025-10-22,Valley Foods,cashier,right knee;head
+WC26005178,ID,2026-03-10,Cedar Health,line operator,lumbar spine
+WC26005183,NM,2025-06-16,Riverbend Builders,line operator,lumbar spine;left shoulder
+WC26005192,NM,2025-08-02,Pioneer Transit,electrician,head;thoracic spine
+WC26005200,SC,2026-01-01,Cedar Transit,nurse aide,lumbar spine
+WC26005201,ID,2025-10-25,Prairie Retail,custodian,left shoulder;lumbar spine
+WC26005210,KY,2025-08-04,Summit Builders,carpenter,lumbar spine
+WC26005217,KY,2025-06-14,Riverbend Foods,custodian,right knee;lumbar spine
+WC26005225,SC,2025-09-04,Granite Builders,carpenter,lumbar spine;left wrist/hand;cervical spine
+WC26005232,ID,2026-04-01,Birch Retail,nurse aide,lumbar spine;right shoulder
+WC26005239,KY,2026-02-09,Pioneer Manufacturing,electrician,right knee;lumbar spine;thoracic spine
+WC26005249,NM,2026-05-10,Cedar Retail,driver,lumbar spine
+WC26005255,SC,2025-09-23,Harbor Transit,nurse aide,thoracic spine
+WC26005263,ID,2026-03-03,Cedar Retail,custodian,right shoulder
+WC26005267,KY,2026-03-10,Alder Transit,driver,cervical spine
+WC26005277,NM,2026-03-01,Alder Health,warehouse associate,right shoulder;left shoulder
+WC26005281,ID,2026-02-20,Bluff Manufacturing,custodian,right wrist/hand;right knee
+WC26005288,ID,2025-11-26,Prairie Foods,nurse aide,right knee;left shoulder
+WC26005292,KY,2025-12-21,Harbor Transit,electrician,right wrist/hand;left wrist/hand
+WC26005304,NM,2025-07-12,Prairie Builders,line operator,left knee
+WC26005312,SC,2025-08-19,Summit Health,custodian,left wrist/hand
+WC26005316,NM,2025-09-18,Granite Logistics,driver,left shoulder;right shoulder;right wrist/hand
+WC26005326,KY,2025-12-01,Granite Builders,line operator,head
+WC26005329,NM,2026-03-05,Summit Builders,electrician,lumbar spine;right shoulder
+WC26005340,SC,2025-08-04,Ridge Logistics,carpenter,lumbar spine;left knee;right shoulder
+WC26005345,ID,2026-02-12,Pioneer Transit,custodian,right knee;left knee
+WC26005353,KY,2026-01-28,Canyon Foods,nurse aide,left wrist/hand;left shoulder
+WC26005358,ID,2025-07-14,Lakeside Foods,cashier,left shoulder;right shoulder
+WC26005364,SC,2025-12-17,Cedar Foods,driver,lumbar spine
+WC26005375,ID,2025-10-29,Meadow Foods,nurse aide,right shoulder
+WC26005376,KY,2025-10-04,Pioneer Logistics,nurse aide,right knee
+WC26005386,NM,2025-09-09,Alder Builders,carpenter,lumbar spine;left knee;left shoulder
+WC26005393,SC,2025-07-12,Granite Health,custodian,lumbar spine
+WC26005397,ID,2025-12-01,Granite Builders,cashier,right knee
+WC26005408,KY,2025-11-08,Riverbend Health,electrician,right shoulder;lumbar spine
+WC26005415,NM,2025-06-22,Meadow Foods,custodian,lumbar spine
+WC26005419,SC,2025-09-02,Harbor Manufacturing,cashier,cervical spine
+WC26005431,ID,2026-04-14,Meadow Logistics,custodian,left shoulder;left knee
+WC26005432,KY,2026-03-07,Granite Retail,custodian,right shoulder
+WC26005439,NM,2025-12-12,Harbor Builders,driver,right knee
+WC26005451,SC,2025-09-21,Pioneer Transit,warehouse associate,head;cervical spine
+WC26005454,ID,2026-03-10,Pioneer Foods,nurse aide,cervical spine
+WC26005465,KY,2025-08-27,Granite Foods,electrician,cervical spine
+WC26005472,NM,2025-11-18,Lakeside Retail,nurse aide,right knee;left wrist/hand
+WC26005474,SC,2026-01-27,Ridge Manufacturing,cashier,right knee;cervical spine
+WC26005482,ID,2025-09-26,Canyon Manufacturing,custodian,right knee;left knee
+WC26005489,KY,2025-12-31,Canyon Transit,custodian,lumbar spine;right wrist/hand
+WC26005501,NM,2026-05-03,Ridge Retail,driver,left shoulder;cervical spine
+WC26005502,NM,2025-07-09,Lakeside Health,electrician,left wrist/hand
+WC26005514,ID,2025-07-31,Birch Builders,electrician,right knee;cervical spine
+WC26005517,KY,2026-04-21,Prairie Transit,carpenter,right wrist/hand
+WC26005527,NM,2025-11-08,Alder Transit,cashier,cervical spine
+WC26005535,SC,2026-05-10,Riverbend Foods,line operator,left shoulder;right shoulder
+WC26005542,ID,2025-10-19,Prairie Logistics,driver,lumbar spine;left knee
+WC26005548,KY,2025-09-03,Prairie Builders,nurse aide,left knee;left wrist/hand
+WC26005555,NM,2025-10-02,Alder Retail,cashier,left shoulder
+WC26005561,SC,2026-01-07,Lakeside Logistics,nurse aide,left shoulder
+WC26005569,ID,2026-04-21,Birch Transit,nurse aide,right wrist/hand;left shoulder;right shoulder
+WC26005573,ID,2025-12-07,Cedar Manufacturing,cashier,right shoulder;right knee;left shoulder
+WC26005579,NM,2025-11-06,Summit Foods,line operator,left wrist/hand
+WC26005590,SC,2025-10-14,Meadow Manufacturing,cashier,thoracic spine;lumbar spine;left knee
+WC26005594,ID,2025-12-31,Meadow Manufacturing,carpenter,right wrist/hand
+WC26005600,KY,2026-04-25,Alder Builders,cashier,right wrist/hand;lumbar spine;left knee
+WC26005609,NM,2025-06-19,Prairie Health,driver,left shoulder;thoracic spine
+WC26005618,SC,2025-10-01,Canyon Builders,custodian,lumbar spine
+WC26005624,ID,2026-02-02,Pioneer Transit,carpenter,right knee;right shoulder
+WC26005629,KY,2025-11-21,Cedar Health,nurse aide,right knee;right shoulder;left shoulder
+WC26005635,NM,2025-06-24,Pioneer Retail,carpenter,right wrist/hand;head
+WC26005643,SC,2025-09-24,Harbor Foods,warehouse associate,cervical spine;left wrist/hand
+WC26005651,ID,2025-10-18,Valley Health,warehouse associate,right shoulder
+WC26005658,KY,2025-11-13,Harbor Builders,carpenter,right knee
+WC26005667,NM,2026-04-01,Harbor Health,electrician,right knee
+WC26005676,SC,2026-05-12,Cedar Transit,nurse aide,cervical spine;thoracic spine
+WC26005679,ID,2025-06-18,Canyon Transit,warehouse associate,right knee;thoracic spine
+WC26005686,KY,2026-04-09,Lakeside Builders,custodian,left knee;lumbar spine
+WC26005693,NM,2025-07-16,Riverbend Transit,carpenter,left knee
+WC26005702,SC,2026-02-18,Birch Transit,electrician,head
+WC26005707,ID,2025-07-17,Lakeside Builders,nurse aide,lumbar spine;cervical spine
+WC26005716,KY,2026-01-15,Birch Retail,nurse aide,left knee
+WC26005721,NM,2025-08-02,Canyon Foods,warehouse associate,right wrist/hand;left knee
+WC26005726,NM,2025-08-11,Canyon Health,custodian,left knee;right wrist/hand;right knee
+WC26005737,ID,2025-07-18,Harbor Retail,carpenter,left shoulder;thoracic spine
+WC26005746,KY,2025-11-15,Birch Retail,custodian,left wrist/hand;left knee
+WC26005752,NM,2026-02-26,Alder Retail,custodian,left shoulder;left knee
+WC26005756,SC,2026-04-25,Birch Manufacturing,carpenter,cervical spine
+WC26005761,ID,2025-08-24,Cedar Health,electrician,right shoulder;thoracic spine
+WC26005769,KY,2026-01-31,Meadow Logistics,warehouse associate,lumbar spine;thoracic spine
+WC26005777,NM,2026-01-14,Alder Transit,line operator,lumbar spine
+WC26005784,SC,2026-05-02,Granite Health,cashier,cervical spine;right wrist/hand
+WC26005795,ID,2026-04-18,Meadow Logistics,driver,left knee;thoracic spine
+WC26005798,NM,2026-03-26,Meadow Logistics,nurse aide,left knee;thoracic spine
+WC26005808,NM,2025-09-24,Bluff Manufacturing,line operator,thoracic spine
+WC26005812,SC,2025-12-17,Meadow Manufacturing,carpenter,left knee;left wrist/hand
+WC26005818,ID,2025-11-18,Summit Transit,cashier,left wrist/hand;left shoulder
+WC26005824,KY,2025-10-29,Lakeside Foods,nurse aide,right shoulder;right wrist/hand
+WC26005836,KY,2026-04-06,Lakeside Builders,line operator,left knee
+WC26005841,SC,2025-11-06,Riverbend Transit,custodian,left shoulder
+WC26005845,ID,2025-11-26,Summit Transit,carpenter,left shoulder
+WC26005858,KY,2025-10-10,Lakeside Retail,electrician,lumbar spine;head;left shoulder
+WC26005864,NM,2025-12-29,Granite Transit,driver,lumbar spine;thoracic spine
+WC26005868,SC,2025-10-07,Harbor Transit,custodian,lumbar spine;head
+WC26005877,KY,2026-02-17,Granite Builders,electrician,right wrist/hand;head
+WC26005885,KY,2026-05-16,Prairie Health,nurse aide,right wrist/hand;cervical spine
+WC26005892,ID,2025-10-20,Ridge Transit,warehouse associate,lumbar spine;thoracic spine
+WC26005897,SC,2026-04-26,Riverbend Retail,warehouse associate,left shoulder;right shoulder
+WC26005906,ID,2026-04-30,Riverbend Manufacturing,electrician,cervical spine;right wrist/hand
+WC26005909,SC,2025-12-01,Summit Health,warehouse associate,lumbar spine;thoracic spine
+WC26005918,NM,2026-01-01,Prairie Logistics,driver,lumbar spine;cervical spine
+WC26005926,SC,2025-12-04,Pioneer Retail,driver,head;left wrist/hand
+WC26005932,ID,2025-12-21,Prairie Transit,cashier,left wrist/hand
+WC26005938,KY,2026-03-26,Cedar Retail,driver,left wrist/hand;thoracic spine;lumbar spine
+WC26005945,NM,2025-08-18,Lakeside Builders,cashier,lumbar spine
+WC26005950,SC,2026-02-19,Alder Health,carpenter,lumbar spine
+WC26005959,ID,2026-02-19,Birch Transit,cashier,lumbar spine
+WC26005970,KY,2026-05-05,Birch Retail,electrician,lumbar spine
+WC26005974,NM,2025-09-24,Riverbend Transit,cashier,right shoulder;thoracic spine
+WC26005980,SC,2025-07-26,Cedar Retail,custodian,lumbar spine;left wrist/hand
+WC26005991,ID,2025-07-06,Prairie Foods,driver,right wrist/hand
+WC26005994,KY,2026-05-04,Granite Logistics,electrician,right knee;right wrist/hand
+WC26006001,NM,2025-07-07,Birch Logistics,custodian,left shoulder;right knee
+WC26006009,SC,2026-05-18,Birch Logistics,line operator,right shoulder;left knee;left wrist/hand
+WC26006019,ID,2026-04-22,Pioneer Builders,carpenter,right knee;cervical spine;lumbar spine
+WC26006024,KY,2026-04-17,Granite Retail,custodian,cervical spine;left shoulder
+WC26006029,NM,2026-04-05,Prairie Builders,warehouse associate,lumbar spine
+WC26006035,SC,2026-04-19,Summit Health,nurse aide,right shoulder;right wrist/hand
+WC26006045,ID,2026-01-23,Bluff Logistics,carpenter,thoracic spine
+WC26006053,NM,2025-11-29,Cedar Logistics,custodian,left wrist/hand;thoracic spine;cervical spine
+WC26006057,NM,2026-02-19,Birch Manufacturing,line operator,left shoulder
+WC26006067,SC,2026-05-13,Pioneer Builders,cashier,lumbar spine;cervical spine
+WC26006073,ID,2026-05-02,Riverbend Manufacturing,line operator,lumbar spine;thoracic spine
+WC26006081,KY,2025-10-12,Meadow Manufacturing,carpenter,right knee;head
+WC26006087,NM,2025-06-12,Lakeside Transit,carpenter,left shoulder
+WC26006092,SC,2025-06-20,Prairie Logistics,electrician,right shoulder;lumbar spine;right knee
+WC26006099,ID,2025-09-13,Meadow Retail,driver,head;lumbar spine
+WC26006104,KY,2025-09-22,Meadow Retail,custodian,right wrist/hand
+WC26006113,NM,2026-03-06,Ridge Manufacturing,line operator,left wrist/hand
+WC26006124,SC,2025-08-22,Birch Transit,nurse aide,cervical spine;right wrist/hand
+WC26006126,NM,2026-01-27,Canyon Foods,cashier,lumbar spine
+WC26006133,KY,2026-04-22,Bluff Builders,nurse aide,right shoulder;lumbar spine
+WC26006142,NM,2026-05-15,Granite Manufacturing,electrician,left wrist/hand
+WC26006152,SC,2025-11-04,Cedar Health,electrician,left knee;head
+WC26006153,ID,2026-04-30,Summit Transit,carpenter,left knee
+WC26006161,KY,2026-01-10,Harbor Retail,electrician,lumbar spine
+WC26006172,SC,2026-02-11,Summit Retail,warehouse associate,lumbar spine
+WC26006175,SC,2026-01-26,Prairie Manufacturing,nurse aide,left wrist/hand;cervical spine
+WC26006183,ID,2025-06-23,Pioneer Foods,carpenter,left shoulder;lumbar spine
+WC26006191,KY,2026-02-16,Bluff Logistics,custodian,thoracic spine;right wrist/hand
+WC26006198,NM,2026-05-11,Bluff Logistics,custodian,right knee
+WC26006205,ID,2025-08-09,Summit Retail,custodian,thoracic spine;lumbar spine;cervical spine
+WC26006211,ID,2025-07-18,Cedar Transit,nurse aide,left wrist/hand
+WC26006218,KY,2025-09-05,Birch Health,warehouse associate,right wrist/hand
+WC26006225,NM,2025-08-11,Birch Foods,nurse aide,right wrist/hand
+WC26006235,SC,2025-06-22,Ridge Transit,cashier,lumbar spine;left knee
+WC26006243,ID,2026-01-08,Summit Retail,electrician,thoracic spine
+WC26006248,SC,2026-04-10,Granite Retail,line operator,right shoulder
+WC26006254,NM,2025-06-09,Canyon Builders,cashier,left wrist/hand;head
+WC26006264,SC,2025-08-29,Canyon Health,nurse aide,left shoulder
+WC26006267,ID,2025-09-30,Canyon Builders,custodian,cervical spine;head
+WC26006275,KY,2025-10-02,Granite Retail,cashier,thoracic spine
+WC26006283,NM,2025-08-30,Pioneer Health,carpenter,right knee;right shoulder
+WC26006286,SC,2025-09-12,Canyon Logistics,warehouse associate,left shoulder;right shoulder
+WC26006295,ID,2026-01-03,Granite Transit,warehouse associate,right knee
+WC26006302,KY,2026-02-03,Bluff Builders,carpenter,lumbar spine;left shoulder
+WC26006311,NM,2025-11-18,Valley Foods,warehouse associate,right shoulder;head
+WC26006316,SC,2026-01-30,Ridge Retail,custodian,lumbar spine;head
+WC26006324,ID,2026-01-22,Harbor Foods,carpenter,lumbar spine
+WC26006329,KY,2026-03-01,Harbor Manufacturing,cashier,cervical spine
+WC26006341,NM,2025-08-17,Birch Transit,warehouse associate,left shoulder;thoracic spine
+WC26006345,SC,2025-10-27,Canyon Foods,driver,left knee
+WC26006349,ID,2025-10-23,Pioneer Transit,driver,left shoulder;right shoulder
+WC26006356,KY,2026-05-28,Cedar Builders,electrician,right wrist/hand;right knee;lumbar spine
+WC26006369,NM,2025-10-11,Canyon Logistics,cashier,lumbar spine;left shoulder
+WC26006376,SC,2025-11-05,Harbor Logistics,custodian,cervical spine;right shoulder
+WC26006378,ID,2026-01-19,Prairie Transit,carpenter,left knee
+WC26006389,KY,2026-01-28,Lakeside Foods,driver,left knee
+WC26006393,NM,2025-06-06,Meadow Builders,electrician,right knee
+WC26006404,SC,2025-10-01,Granite Manufacturing,line operator,thoracic spine
+WC26006409,ID,2026-02-26,Summit Transit,line operator,lumbar spine;thoracic spine
+WC26006412,KY,2025-11-13,Canyon Transit,electrician,right knee
+WC26006419,NM,2026-01-12,Alder Manufacturing,electrician,right wrist/hand
+WC26006427,SC,2025-10-21,Granite Transit,cashier,left knee
+WC26006436,ID,2026-05-10,Harbor Foods,custodian,lumbar spine;right shoulder
+WC26006441,KY,2025-10-12,Granite Transit,carpenter,thoracic spine
+WC26006448,NM,2025-10-01,Lakeside Retail,warehouse associate,right knee
+WC26006456,SC,2025-11-09,Valley Health,line operator,head
+WC26006461,ID,2026-03-11,Harbor Manufacturing,warehouse associate,cervical spine;lumbar spine;left knee
+WC26006470,KY,2025-09-20,Pioneer Builders,driver,left knee;right knee
+WC26006480,NM,2025-12-17,Meadow Retail,driver,left wrist/hand
+WC26006483,SC,2025-11-20,Meadow Manufacturing,custodian,lumbar spine;head
+WC26006494,NM,2026-05-13,Prairie Builders,nurse aide,lumbar spine
+WC26006499,KY,2026-02-16,Riverbend Logistics,warehouse associate,right shoulder
+WC26006508,NM,2026-04-28,Cedar Health,cashier,lumbar spine
+WC26006514,SC,2025-07-03,Pioneer Builders,carpenter,left knee;right wrist/hand
+WC26006518,ID,2025-08-30,Granite Builders,warehouse associate,right wrist/hand;left wrist/hand;left shoulder
+WC26006526,KY,2026-04-22,Bluff Builders,line operator,left knee
+WC26006531,NM,2025-11-04,Bluff Foods,custodian,left knee
+WC26006540,SC,2025-09-03,Alder Logistics,carpenter,right shoulder;left shoulder
+WC26006549,ID,2026-02-01,Prairie Retail,driver,right shoulder;right wrist/hand
+WC26006554,KY,2025-06-07,Birch Foods,carpenter,lumbar spine;left wrist/hand
+WC26006560,NM,2026-01-10,Birch Transit,nurse aide,thoracic spine
+WC26006566,SC,2026-02-15,Pioneer Health,warehouse associate,right knee;left shoulder;right shoulder
+WC26006578,ID,2025-09-12,Ridge Builders,carpenter,left knee
+WC26006580,KY,2025-12-25,Ridge Builders,cashier,left shoulder
+WC26006593,NM,2026-02-10,Pioneer Retail,nurse aide,right wrist/hand;head
+WC26006599,SC,2025-08-09,Cedar Health,warehouse associate,head
+WC26006601,ID,2025-07-12,Birch Logistics,warehouse associate,lumbar spine
+WC26006614,KY,2025-12-10,Valley Retail,driver,left knee
+WC26006616,NM,2025-10-17,Alder Transit,line operator,right knee
+WC26006625,SC,2025-06-27,Valley Builders,driver,lumbar spine;left knee
+WC26006634,ID,2025-07-14,Alder Manufacturing,electrician,lumbar spine
+WC26006640,KY,2025-11-04,Canyon Transit,electrician,cervical spine;lumbar spine
+WC26006647,NM,2026-03-16,Harbor Retail,carpenter,cervical spine

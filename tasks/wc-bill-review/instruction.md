@@ -1,0 +1,3 @@
+We are auditing the medical bills on our workers' compensation claims. Using the files in /app/data, determine for every bill line the amount that should be allowed and the amount still payable after what we have already paid.
+
+Write /app/output/bill_review.csv with the header bill_id,line_no,allowed_usd,payable_usd, one row for every line in bill_lines.csv, and a last row with bill_id total, an empty line_no, and the sums of the two amount columns. At least 99% of lines need an allowed_usd and, separately, a payable_usd within 0.5% (or $0.50, if larger) of the correct amount, at least 99.7% of bills need their total payable_usd within 0.5% (or $1.00, if larger), and the total allowed and total payable must each be within 0.25%.

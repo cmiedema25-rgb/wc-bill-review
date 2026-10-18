@@ -1,0 +1,22 @@
+"""Methods scored by the sweep. Each shortcut is solution/solve.py with one or two steps switched off or done the obvious wrong way."""
+METHODS = {
+    "reference": [], "independent": "independent",
+    "billed_as_allowed": "billed",
+    "cf_latest": ["cf_latest"], "cf_by_received_date": ["cf_received"], "cf_include_proposed": ["cf_proposed"],
+    "ppo_schedule_base_everywhere": ["ppo_schedule"], "ppo_billed_base_everywhere": ["ppo_billed"], "no_ppo": ["no_ppo"],
+    "ppo_provider_master_network": ["ppo_stale"], "no_billed_cap": ["no_billed_cap"],
+    "no_multiple_procedure": ["no_mpr"], "mpr_by_modifier_51": ["mpr_mod51"], "mpr_per_bill": ["mpr_bill"],
+    "mpr_billed_order": ["mpr_billed_order"], "mpr_flat_50": ["mpr_flat"],
+    "no_bundling": ["no_bundle"], "bundling_ignores_modifiers": ["bundle_ignore_mod"], "bundling_per_bill": ["bundle_bill"],
+    "ignore_frequency_codes": ["no_freq"], "no_duplicate_check": ["no_dup"], "duplicates_of_inactive_bills": ["dup_any"],
+    "no_body_part_check": ["no_body_part"], "any_diagnosis_pointer": ["any_pointer"], "claimed_body_parts": ["claimed_parts"],
+    "ignore_laterality": ["no_laterality"], "first_determination": ["det_first"], "any_acceptance": ["det_any_accept"],
+    "no_preinjury_check": ["no_preinjury"],
+    "jurisdiction_schedule_always": ["oos_jurisdiction"], "provider_state_schedule_always": ["oos_provider"], "billing_office_state": ["oos_billing"],
+    "no_payment_netting": ["no_netting"], "netting_same_line_only": ["net_same_line"], "netting_includes_voided": ["net_voided"],
+    "ignore_reversals": ["keep_reversals"],
+    "facility_no_packaging": ["no_packaging"], "facility_no_multiple_procedure": ["no_fac_mpr"],
+    "assistant_flat_20": ["assist_flat"], "bilateral_200": ["bilat200"],
+    "pair_cf_received_no_reversals": ["cf_received", "keep_reversals"],
+    "pair_mpr51_bundle_bill": ["mpr_mod51", "bundle_bill"],
+}

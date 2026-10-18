@@ -1,0 +1,348 @@
+npi,name,tax_id,specialty,practice_state,billing_office_state,ppo_network
+1337049862,Granite Occupational Medicine Group,33-6292296,Occupational Medicine,KY,KY,MER
+1598163805,Granite Occupational Medicine PLLC,91-9084609,Occupational Medicine,KY,NM,
+1722007042,Riverbend Occupational Medicine Group,10-3123392,Occupational Medicine,KY,KY,KHN
+1798673122,Birch Occupational Medicine Clinic,27-3025716,Occupational Medicine,KY,KY,MER
+1327853890,Bluff Occupational Medicine Group,10-7028096,Occupational Medicine,KY,KY,SUM
+1237771176,Ridge Occupational Medicine PLLC,86-2080012,Occupational Medicine,KY,TX,
+1977521113,Meadow Occupational Medicine,91-1953399,Occupational Medicine,KY,GA,MER
+1010689709,Granite Occupational Medicine PLLC,45-3325023,Occupational Medicine,KY,KY,KHN
+1650287844,Cedar Occupational Medicine PLLC,21-5859633,Occupational Medicine,KY,KY,SUM
+1596521883,Summit Occupational Medicine Associates,71-5177193,Occupational Medicine,KY,KY,
+1091989156,Summit Occupational Medicine Clinic,35-3189244,Occupational Medicine,KY,SC,
+1061708181,Prairie Occupational Medicine Clinic,73-8819393,Occupational Medicine,KY,KY,SUM
+1326118902,Riverbend Occupational Medicine Group,71-7458666,Occupational Medicine,KY,KY,SUM
+1190003002,Birch Occupational Medicine PLLC,76-1197145,Occupational Medicine,KY,KY,
+1399791454,Prairie Occupational Medicine Group,72-8865850,Occupational Medicine,KY,KY,SUM
+1024257996,Granite Occupational Medicine Associates,52-4283331,Occupational Medicine,KY,KY,
+1144105576,Harbor Occupational Medicine Group,80-7401902,Occupational Medicine,KY,KY,
+1458750133,Prairie Occupational Medicine Group,28-6446755,Occupational Medicine,KY,KY,MER
+1727071018,Birch Occupational Medicine Associates,76-6961516,Occupational Medicine,KY,KY,KHN
+1343954094,Harbor Occupational Medicine,82-5493585,Occupational Medicine,KY,KY,SUM
+1845318318,Granite Occupational Medicine PLLC,93-5723511,Occupational Medicine,KY,KY,MER
+1203757767,Alder Occupational Medicine Clinic,82-2904518,Occupational Medicine,KY,KY,
+1319105340,Valley Occupational Medicine Associates,43-4129312,Occupational Medicine,KY,KY,SUM
+1602809109,Summit Occupational Medicine Associates,22-5027215,Occupational Medicine,KY,KY,MER
+1793411869,Prairie Occupational Medicine,62-6713366,Occupational Medicine,KY,KY,KHN
+1677791427,Harbor Occupational Medicine Group,94-1528918,Occupational Medicine,KY,KY,KHN
+1139006910,Riverbend Physical Therapy Clinic,64-1786397,Physical Therapy,KY,KY,KHN
+1538207822,Bluff Physical Therapy Associates,61-4723396,Physical Therapy,KY,KY,KHN
+1288760440,Prairie Physical Therapy Associates,41-7824219,Physical Therapy,KY,KY,
+1260307156,Granite Physical Therapy Associates,28-3707342,Physical Therapy,KY,KY,
+1569801063,Meadow Physical Therapy PLLC,36-3265042,Physical Therapy,KY,KY,
+1196550497,Prairie Physical Therapy Clinic,17-5703696,Physical Therapy,KY,KY,
+1427193655,Cedar Physical Therapy Clinic,26-8045173,Physical Therapy,KY,KY,KHN
+1870450493,Lakeside Physical Therapy Associates,51-3297275,Physical Therapy,KY,KY,
+1758829636,Harbor Physical Therapy Clinic,72-6995975,Physical Therapy,KY,NM,
+1979728497,Canyon Physical Therapy Group,35-2155054,Physical Therapy,KY,KY,
+1494950303,Summit Physical Therapy PLLC,62-5923827,Physical Therapy,KY,NM,
+1337332349,Ridge Physical Therapy Associates,79-8435084,Physical Therapy,KY,GA,
+1489414931,Harbor Physical Therapy PLLC,15-5850064,Physical Therapy,KY,KY,
+1791989161,Bluff Physical Therapy Clinic,96-3596175,Physical Therapy,KY,KY,
+1165351629,Granite Physical Therapy Group,75-9949919,Physical Therapy,KY,KY,SUM
+1743137107,Pioneer Physical Therapy PLLC,12-8576865,Physical Therapy,KY,KY,MER
+1204023060,Prairie Physical Therapy Associates,28-2886243,Physical Therapy,KY,KY,
+1270280135,Riverbend Physical Therapy,20-9905746,Physical Therapy,KY,ID,MER
+1108286184,Bluff Diagnostic Imaging Center,20-5910631,Diagnostic Imaging,KY,KY,
+1735421273,Ridge Diagnostic Imaging Center,64-2065037,Diagnostic Imaging,KY,KY,
+1766924301,Cedar Diagnostic Imaging Center,26-7564828,Diagnostic Imaging,KY,KY,KHN
+1541703293,Pioneer Diagnostic Imaging Center,31-6908316,Diagnostic Imaging,KY,GA,
+1860248595,Meadow Diagnostic Imaging Center,46-2421590,Diagnostic Imaging,KY,NM,SUM
+1542859382,Bluff Diagnostic Imaging Center,23-9860167,Diagnostic Imaging,KY,KY,SUM
+1267286037,Canyon Diagnostic Imaging Center,96-6350983,Diagnostic Imaging,KY,KY,
+1426084582,Bluff Diagnostic Imaging Center,33-9690377,Diagnostic Imaging,KY,KY,KHN
+1238681928,Summit Diagnostic Imaging Center,56-9184474,Diagnostic Imaging,KY,KY,SUM
+1286676778,Cedar Orthopedic Surgery Clinic,38-3867201,Orthopedic Surgery,KY,KY,
+1670911739,Granite Orthopedic Surgery,48-5161691,Orthopedic Surgery,KY,KY,KHN
+1437206604,Lakeside Orthopedic Surgery Group,34-1947614,Orthopedic Surgery,KY,KY,
+1755228222,Valley Orthopedic Surgery PLLC,83-9103455,Orthopedic Surgery,KY,KY,SUM
+1538212354,Riverbend Orthopedic Surgery Group,64-2864930,Orthopedic Surgery,KY,TX,
+1374465258,Birch Orthopedic Surgery,97-1447052,Orthopedic Surgery,KY,GA,
+1396353200,Meadow Orthopedic Surgery,39-1141625,Orthopedic Surgery,KY,KY,
+1629903161,Lakeside Orthopedic Surgery,72-6831846,Orthopedic Surgery,KY,KY,MER
+1649312740,Valley Orthopedic Surgery,31-8489471,Orthopedic Surgery,KY,KY,
+1734192132,Birch Orthopedic Surgery,27-9952439,Orthopedic Surgery,KY,KY,SUM
+1666988573,Prairie Orthopedic Surgery Group,66-2539652,Orthopedic Surgery,KY,ID,
+1635165979,Lakeside Orthopedic Surgery Group,31-6439261,Orthopedic Surgery,KY,KY,MER
+1927244391,Meadow Ambulatory Surgery Center Center,65-7859356,Ambulatory Surgery Center,KY,KY,KHN
+1670759549,Canyon Ambulatory Surgery Center Center,10-4653847,Ambulatory Surgery Center,KY,KY,SUM
+1203474692,Canyon Ambulatory Surgery Center Center,54-3368729,Ambulatory Surgery Center,KY,KY,SUM
+1436431756,Bluff Ambulatory Surgery Center Center,35-6557167,Ambulatory Surgery Center,KY,KY,KHN
+1732188756,Meadow Ambulatory Surgery Center Center,83-1515143,Ambulatory Surgery Center,KY,KY,SUM
+1702850453,Meadow Ambulatory Surgery Center Center,39-2313940,Ambulatory Surgery Center,KY,KY,SUM
+1971078727,Pioneer Ambulatory Surgery Center Center,96-7255203,Ambulatory Surgery Center,KY,GA,
+1434353282,Alder Durable Medical Equipment Associates,52-9021269,Durable Medical Equipment,KY,KY,
+1762315791,Harbor Durable Medical Equipment,56-3307579,Durable Medical Equipment,KY,KY,SUM
+1489606262,Valley Durable Medical Equipment Associates,51-3138995,Durable Medical Equipment,KY,KY,
+1469876587,Birch Durable Medical Equipment Associates,87-5804661,Durable Medical Equipment,KY,KY,
+1782514103,Cedar Durable Medical Equipment Clinic,73-9629721,Durable Medical Equipment,KY,KY,SUM
+1090362472,Alder Occupational Medicine PLLC,71-5893389,Occupational Medicine,NM,NM,SUM
+1956676441,Harbor Occupational Medicine Group,64-4568726,Occupational Medicine,NM,NM,MER
+1287316419,Ridge Occupational Medicine PLLC,26-4524760,Occupational Medicine,NM,NM,
+1549221481,Granite Occupational Medicine Clinic,76-2174376,Occupational Medicine,NM,ID,SUM
+1609622421,Summit Occupational Medicine Clinic,88-8392982,Occupational Medicine,NM,TX,MER
+1503269242,Granite Occupational Medicine Clinic,59-2199618,Occupational Medicine,NM,NM,
+1336343009,Valley Occupational Medicine Group,33-8095643,Occupational Medicine,NM,NM,KHN
+1481128832,Alder Occupational Medicine Associates,10-6871117,Occupational Medicine,NM,NM,MER
+1764974259,Ridge Occupational Medicine PLLC,24-4281039,Occupational Medicine,NM,NM,
+1803491397,Cedar Occupational Medicine Associates,26-6614364,Occupational Medicine,NM,NM,
+1722568630,Cedar Occupational Medicine Group,21-8563543,Occupational Medicine,NM,NM,SUM
+1209280544,Prairie Occupational Medicine Clinic,70-5494447,Occupational Medicine,NM,NM,
+1850647366,Canyon Occupational Medicine Group,22-9040080,Occupational Medicine,NM,NM,SUM
+1317794882,Lakeside Occupational Medicine Associates,54-4462362,Occupational Medicine,NM,NM,SUM
+1985309791,Canyon Occupational Medicine Clinic,28-1980248,Occupational Medicine,NM,NM,KHN
+1332743624,Summit Occupational Medicine Associates,32-1772001,Occupational Medicine,NM,NM,
+1057458960,Ridge Occupational Medicine,66-9447258,Occupational Medicine,NM,NM,
+1644079826,Riverbend Occupational Medicine Associates,63-2472117,Occupational Medicine,NM,ID,KHN
+1973457971,Ridge Occupational Medicine PLLC,32-7093039,Occupational Medicine,NM,NM,KHN
+1789944100,Alder Occupational Medicine Group,78-9313563,Occupational Medicine,NM,NM,
+1734849136,Cedar Occupational Medicine Group,19-7271555,Occupational Medicine,NM,NM,MER
+1599358450,Meadow Occupational Medicine Clinic,67-4461623,Occupational Medicine,NM,NM,SUM
+1963617292,Summit Occupational Medicine,22-4129307,Occupational Medicine,NM,KY,MER
+1091347728,Harbor Occupational Medicine PLLC,19-8782348,Occupational Medicine,NM,NM,MER
+1121808313,Prairie Occupational Medicine Associates,65-6898865,Occupational Medicine,NM,NM,MER
+1570518000,Prairie Occupational Medicine PLLC,82-7036094,Occupational Medicine,NM,NM,
+1511299990,Birch Physical Therapy,49-3446211,Physical Therapy,NM,NM,SUM
+1751373813,Valley Physical Therapy PLLC,70-8120981,Physical Therapy,NM,NM,
+1727514178,Bluff Physical Therapy Group,51-7562194,Physical Therapy,NM,NM,KHN
+1392563618,Prairie Physical Therapy Group,49-2615373,Physical Therapy,NM,NM,
+1811752226,Ridge Physical Therapy Associates,24-1088087,Physical Therapy,NM,NM,KHN
+1818820005,Valley Physical Therapy Clinic,45-1584438,Physical Therapy,NM,NM,KHN
+1195707165,Cedar Physical Therapy,58-7303126,Physical Therapy,NM,GA,SUM
+1919375858,Cedar Physical Therapy Group,93-7930744,Physical Therapy,NM,NM,
+1708044784,Granite Physical Therapy,35-1093469,Physical Therapy,NM,NM,SUM
+1851491441,Cedar Physical Therapy Group,18-5979995,Physical Therapy,NM,NM,MER
+1676047019,Canyon Physical Therapy PLLC,57-2737864,Physical Therapy,NM,NM,
+1375534580,Prairie Physical Therapy Associates,59-8776566,Physical Therapy,NM,NM,SUM
+1130004775,Harbor Physical Therapy PLLC,60-5406936,Physical Therapy,NM,TX,KHN
+1787205854,Canyon Physical Therapy Group,23-1916758,Physical Therapy,NM,NM,KHN
+1452153947,Pioneer Physical Therapy Clinic,14-1883168,Physical Therapy,NM,NM,
+1399095304,Ridge Physical Therapy Group,13-5097429,Physical Therapy,NM,GA,MER
+1147793955,Harbor Physical Therapy Clinic,69-7829924,Physical Therapy,NM,NM,
+1823275476,Summit Physical Therapy Group,15-4576251,Physical Therapy,NM,NM,SUM
+1880212198,Cedar Diagnostic Imaging Center,96-7931377,Diagnostic Imaging,NM,KY,
+1882181424,Pioneer Diagnostic Imaging Center,27-7357096,Diagnostic Imaging,NM,NM,
+1874438997,Meadow Diagnostic Imaging Center,66-1522892,Diagnostic Imaging,NM,TX,MER
+1342301115,Bluff Diagnostic Imaging Center,44-1274535,Diagnostic Imaging,NM,NM,KHN
+1455830805,Birch Diagnostic Imaging Center,97-4310415,Diagnostic Imaging,NM,NM,SUM
+1132778940,Valley Diagnostic Imaging Center,65-2167963,Diagnostic Imaging,NM,NM,
+1828059002,Alder Diagnostic Imaging Center,43-9545003,Diagnostic Imaging,NM,NM,
+1312165989,Cedar Diagnostic Imaging Center,77-7947880,Diagnostic Imaging,NM,NM,
+1107458864,Harbor Diagnostic Imaging Center,83-4503758,Diagnostic Imaging,NM,NM,SUM
+1744762438,Alder Orthopedic Surgery Group,63-3036910,Orthopedic Surgery,NM,NM,
+1033999469,Ridge Orthopedic Surgery,50-7893590,Orthopedic Surgery,NM,NM,MER
+1112429475,Meadow Orthopedic Surgery Associates,52-7176447,Orthopedic Surgery,NM,SC,
+1753405353,Riverbend Orthopedic Surgery Associates,64-9758389,Orthopedic Surgery,NM,NM,KHN
+1029768680,Bluff Orthopedic Surgery,64-9042348,Orthopedic Surgery,NM,NM,KHN
+1353359566,Canyon Orthopedic Surgery,88-7889495,Orthopedic Surgery,NM,NM,
+1658789103,Lakeside Orthopedic Surgery PLLC,69-2733105,Orthopedic Surgery,NM,SC,
+1828826983,Ridge Orthopedic Surgery Group,69-4608662,Orthopedic Surgery,NM,NM,
+1861191441,Riverbend Orthopedic Surgery Group,70-6000271,Orthopedic Surgery,NM,NM,
+1086244773,Meadow Orthopedic Surgery Associates,41-7754144,Orthopedic Surgery,NM,NM,
+1583029525,Meadow Orthopedic Surgery Associates,91-7036427,Orthopedic Surgery,NM,NM,SUM
+1970037464,Riverbend Orthopedic Surgery,86-2546165,Orthopedic Surgery,NM,NM,KHN
+1616452584,Granite Ambulatory Surgery Center Center,79-4938619,Ambulatory Surgery Center,NM,NM,SUM
+1044753160,Pioneer Ambulatory Surgery Center Center,22-5533629,Ambulatory Surgery Center,NM,NM,
+1636275754,Valley Ambulatory Surgery Center Center,11-5127578,Ambulatory Surgery Center,NM,NM,
+1557794044,Granite Ambulatory Surgery Center Center,10-5870822,Ambulatory Surgery Center,NM,ID,
+1073628594,Lakeside Ambulatory Surgery Center Center,77-3851869,Ambulatory Surgery Center,NM,GA,
+1998237794,Pioneer Ambulatory Surgery Center Center,33-1513690,Ambulatory Surgery Center,NM,NM,MER
+1984130232,Prairie Ambulatory Surgery Center Center,22-8962677,Ambulatory Surgery Center,NM,NM,
+1515753467,Cedar Durable Medical Equipment PLLC,92-1835637,Durable Medical Equipment,NM,NM,
+1636382409,Pioneer Durable Medical Equipment Clinic,36-4879166,Durable Medical Equipment,NM,NM,KHN
+1824021611,Summit Durable Medical Equipment Associates,64-5990021,Durable Medical Equipment,NM,NM,
+1633786285,Summit Durable Medical Equipment Group,59-1322019,Durable Medical Equipment,NM,KY,SUM
+1813450134,Canyon Durable Medical Equipment Group,85-3587715,Durable Medical Equipment,NM,NM,KHN
+1597631854,Meadow Occupational Medicine,45-9038205,Occupational Medicine,SC,SC,
+1829528584,Riverbend Occupational Medicine Clinic,81-7279779,Occupational Medicine,SC,SC,
+1800219964,Lakeside Occupational Medicine Associates,58-8423301,Occupational Medicine,SC,SC,MER
+1193236888,Birch Occupational Medicine Clinic,16-8815969,Occupational Medicine,SC,SC,MER
+1173621673,Summit Occupational Medicine Associates,16-4501848,Occupational Medicine,SC,SC,
+1320065859,Summit Occupational Medicine Associates,87-8874581,Occupational Medicine,SC,KY,SUM
+1865248405,Canyon Occupational Medicine PLLC,41-8726681,Occupational Medicine,SC,SC,SUM
+1959694338,Summit Occupational Medicine Group,62-2387859,Occupational Medicine,SC,GA,SUM
+1170733563,Granite Occupational Medicine,77-4404317,Occupational Medicine,SC,SC,
+1689915352,Prairie Occupational Medicine Associates,68-3784850,Occupational Medicine,SC,SC,
+1435120407,Prairie Occupational Medicine,42-1103197,Occupational Medicine,SC,SC,KHN
+1338157715,Valley Occupational Medicine Clinic,20-1910988,Occupational Medicine,SC,SC,MER
+1307979352,Lakeside Occupational Medicine,97-2991718,Occupational Medicine,SC,SC,KHN
+1406178820,Birch Occupational Medicine Clinic,63-4881017,Occupational Medicine,SC,SC,KHN
+1062122806,Birch Occupational Medicine Clinic,58-4487099,Occupational Medicine,SC,SC,SUM
+1058218220,Alder Occupational Medicine Clinic,29-6048958,Occupational Medicine,SC,SC,KHN
+1881837294,Canyon Occupational Medicine PLLC,70-1288328,Occupational Medicine,SC,SC,MER
+1814888688,Granite Occupational Medicine Clinic,60-5005796,Occupational Medicine,SC,SC,SUM
+1605393206,Summit Occupational Medicine,66-3683312,Occupational Medicine,SC,SC,KHN
+1565518269,Riverbend Occupational Medicine Associates,72-9608304,Occupational Medicine,SC,KY,KHN
+1946055268,Bluff Occupational Medicine Group,32-6330295,Occupational Medicine,SC,ID,
+1658583951,Riverbend Occupational Medicine Group,70-4893439,Occupational Medicine,SC,SC,
+1188350682,Summit Occupational Medicine Associates,45-4156515,Occupational Medicine,SC,SC,KHN
+1606278513,Pioneer Occupational Medicine PLLC,56-7775500,Occupational Medicine,SC,SC,KHN
+1870793488,Meadow Occupational Medicine,81-4232183,Occupational Medicine,SC,SC,
+1745683568,Bluff Occupational Medicine Group,92-4119831,Occupational Medicine,SC,SC,MER
+1117427008,Ridge Physical Therapy PLLC,23-8204133,Physical Therapy,SC,SC,KHN
+1499642591,Harbor Physical Therapy Clinic,56-2445368,Physical Therapy,SC,GA,MER
+1496861909,Summit Physical Therapy Clinic,46-8677902,Physical Therapy,SC,SC,MER
+1537052349,Valley Physical Therapy PLLC,45-9382777,Physical Therapy,SC,SC,
+1894241760,Pioneer Physical Therapy Clinic,57-2226023,Physical Therapy,SC,SC,
+1683330125,Alder Physical Therapy Clinic,72-7913294,Physical Therapy,SC,SC,SUM
+1616128133,Riverbend Physical Therapy,25-3016729,Physical Therapy,SC,SC,KHN
+1225058640,Granite Physical Therapy PLLC,68-8641638,Physical Therapy,SC,SC,MER
+1554769054,Riverbend Physical Therapy Associates,58-3960023,Physical Therapy,SC,SC,MER
+1114355254,Canyon Physical Therapy Clinic,39-9036579,Physical Therapy,SC,TX,KHN
+1238724191,Pioneer Physical Therapy Clinic,93-6614249,Physical Therapy,SC,SC,
+1480830324,Lakeside Physical Therapy Clinic,15-4800752,Physical Therapy,SC,SC,KHN
+1566367131,Alder Physical Therapy Group,95-4824095,Physical Therapy,SC,SC,MER
+1055366533,Granite Physical Therapy PLLC,48-7216806,Physical Therapy,SC,ID,
+1320785487,Valley Physical Therapy PLLC,59-7289957,Physical Therapy,SC,SC,SUM
+1683481720,Prairie Physical Therapy PLLC,89-1125255,Physical Therapy,SC,SC,
+1525814038,Alder Physical Therapy Group,24-8619767,Physical Therapy,SC,SC,
+1400909616,Valley Physical Therapy Clinic,29-4432777,Physical Therapy,SC,SC,KHN
+1796276450,Meadow Diagnostic Imaging Center,38-8222617,Diagnostic Imaging,SC,SC,
+1685868157,Granite Diagnostic Imaging Center,48-9409467,Diagnostic Imaging,SC,SC,
+1076986943,Canyon Diagnostic Imaging Center,50-2298185,Diagnostic Imaging,SC,SC,MER
+1241101788,Lakeside Diagnostic Imaging Center,45-2593595,Diagnostic Imaging,SC,SC,KHN
+1409070508,Lakeside Diagnostic Imaging Center,36-6724607,Diagnostic Imaging,SC,SC,
+1631629439,Meadow Diagnostic Imaging Center,36-1458298,Diagnostic Imaging,SC,ID,
+1741489601,Pioneer Diagnostic Imaging Center,20-6660002,Diagnostic Imaging,SC,GA,
+1394800896,Meadow Diagnostic Imaging Center,68-7874236,Diagnostic Imaging,SC,ID,
+1097660923,Valley Diagnostic Imaging Center,85-4480624,Diagnostic Imaging,SC,KY,SUM
+1233310167,Granite Orthopedic Surgery,80-9712299,Orthopedic Surgery,SC,SC,
+1628775475,Bluff Orthopedic Surgery Associates,66-8573027,Orthopedic Surgery,SC,SC,KHN
+1676520809,Alder Orthopedic Surgery Clinic,72-7315069,Orthopedic Surgery,SC,SC,KHN
+1248228371,Riverbend Orthopedic Surgery,44-4212992,Orthopedic Surgery,SC,SC,KHN
+1208182965,Prairie Orthopedic Surgery Associates,88-2756646,Orthopedic Surgery,SC,SC,
+1516594015,Bluff Orthopedic Surgery PLLC,37-7458339,Orthopedic Surgery,SC,SC,
+1128196193,Granite Orthopedic Surgery Associates,60-4653725,Orthopedic Surgery,SC,SC,
+1459693697,Birch Orthopedic Surgery PLLC,84-4087149,Orthopedic Surgery,SC,SC,
+1877739176,Pioneer Orthopedic Surgery PLLC,37-8592291,Orthopedic Surgery,SC,SC,SUM
+1724085289,Summit Orthopedic Surgery Clinic,74-3978825,Orthopedic Surgery,SC,NM,
+1786672330,Riverbend Orthopedic Surgery Group,40-8020534,Orthopedic Surgery,SC,SC,KHN
+1093949379,Ridge Orthopedic Surgery,72-1046383,Orthopedic Surgery,SC,SC,KHN
+1135901624,Lakeside Ambulatory Surgery Center Center,78-6647582,Ambulatory Surgery Center,SC,SC,
+1199125630,Riverbend Ambulatory Surgery Center Center,30-4426294,Ambulatory Surgery Center,SC,ID,
+1914511202,Lakeside Ambulatory Surgery Center Center,19-1738223,Ambulatory Surgery Center,SC,SC,MER
+1297988852,Alder Ambulatory Surgery Center Center,58-9792046,Ambulatory Surgery Center,SC,SC,
+1076432008,Cedar Ambulatory Surgery Center Center,14-9947087,Ambulatory Surgery Center,SC,SC,
+1335650370,Canyon Ambulatory Surgery Center Center,55-9578738,Ambulatory Surgery Center,SC,SC,KHN
+1958225434,Granite Ambulatory Surgery Center Center,97-2741172,Ambulatory Surgery Center,SC,SC,
+1407078990,Harbor Durable Medical Equipment Clinic,58-7015434,Durable Medical Equipment,SC,SC,
+1171826242,Pioneer Durable Medical Equipment PLLC,17-3890639,Durable Medical Equipment,SC,SC,
+1416116678,Canyon Durable Medical Equipment Group,79-1908563,Durable Medical Equipment,SC,SC,
+1017986997,Bluff Durable Medical Equipment PLLC,95-4138240,Durable Medical Equipment,SC,SC,
+1964332578,Valley Durable Medical Equipment Group,81-6630655,Durable Medical Equipment,SC,SC,
+1445862633,Harbor Occupational Medicine Group,23-3839702,Occupational Medicine,ID,ID,KHN
+1701808914,Ridge Occupational Medicine,85-9303333,Occupational Medicine,ID,KY,KHN
+1700551131,Canyon Occupational Medicine,82-5542069,Occupational Medicine,ID,ID,KHN
+1096088746,Canyon Occupational Medicine,23-8136128,Occupational Medicine,ID,NM,SUM
+1597741135,Cedar Occupational Medicine,58-3310552,Occupational Medicine,ID,ID,KHN
+1061754249,Cedar Occupational Medicine Associates,50-5230159,Occupational Medicine,ID,ID,KHN
+1100426876,Meadow Occupational Medicine,85-8640087,Occupational Medicine,ID,ID,KHN
+1027080042,Valley Occupational Medicine Clinic,93-9429790,Occupational Medicine,ID,ID,SUM
+1093321896,Ridge Occupational Medicine,13-4573737,Occupational Medicine,ID,ID,
+1395134347,Bluff Occupational Medicine,63-7753041,Occupational Medicine,ID,ID,
+1880363683,Harbor Occupational Medicine PLLC,12-9638499,Occupational Medicine,ID,ID,SUM
+1373555863,Summit Occupational Medicine,60-1556358,Occupational Medicine,ID,ID,KHN
+1137411576,Bluff Occupational Medicine,98-1581690,Occupational Medicine,ID,ID,
+1503953681,Riverbend Occupational Medicine,98-4411260,Occupational Medicine,ID,ID,MER
+1670319228,Summit Occupational Medicine Group,36-1641268,Occupational Medicine,ID,ID,
+1580834046,Birch Occupational Medicine PLLC,40-3678300,Occupational Medicine,ID,ID,
+1436440239,Bluff Occupational Medicine Group,82-8656511,Occupational Medicine,ID,ID,KHN
+1908806408,Riverbend Occupational Medicine Group,46-7674327,Occupational Medicine,ID,ID,
+1409944153,Canyon Occupational Medicine Clinic,82-9278213,Occupational Medicine,ID,ID,
+1190219724,Ridge Occupational Medicine Clinic,66-6007051,Occupational Medicine,ID,ID,MER
+1165866811,Alder Occupational Medicine,27-3148194,Occupational Medicine,ID,ID,
+1401910274,Meadow Occupational Medicine Associates,81-4904126,Occupational Medicine,ID,ID,KHN
+1893530990,Pioneer Occupational Medicine Associates,20-5823905,Occupational Medicine,ID,ID,SUM
+1025516821,Harbor Occupational Medicine Group,28-7606741,Occupational Medicine,ID,ID,
+1268432048,Prairie Occupational Medicine Group,54-6182374,Occupational Medicine,ID,ID,
+1614117105,Alder Occupational Medicine PLLC,50-4529354,Occupational Medicine,ID,ID,SUM
+1191827193,Prairie Physical Therapy PLLC,27-1341788,Physical Therapy,ID,ID,KHN
+1110504858,Alder Physical Therapy PLLC,30-5499020,Physical Therapy,ID,ID,
+1625898170,Cedar Physical Therapy Clinic,79-6865861,Physical Therapy,ID,ID,KHN
+1348041475,Alder Physical Therapy Group,71-3849006,Physical Therapy,ID,ID,KHN
+1264536542,Bluff Physical Therapy PLLC,53-2869441,Physical Therapy,ID,ID,
+1941506468,Granite Physical Therapy Group,59-6315623,Physical Therapy,ID,ID,KHN
+1335274461,Harbor Physical Therapy,62-5137143,Physical Therapy,ID,TX,SUM
+1774033497,Cedar Physical Therapy,96-9574908,Physical Therapy,ID,ID,
+1089099093,Granite Physical Therapy Associates,40-8558624,Physical Therapy,ID,ID,KHN
+1059243796,Meadow Physical Therapy Associates,87-5609681,Physical Therapy,ID,SC,
+1615198103,Lakeside Physical Therapy Clinic,29-8604715,Physical Therapy,ID,ID,SUM
+1173480863,Harbor Physical Therapy Associates,32-9362216,Physical Therapy,ID,ID,
+1583161721,Alder Physical Therapy Associates,84-7541163,Physical Therapy,ID,ID,MER
+1954415726,Bluff Physical Therapy,81-2075850,Physical Therapy,ID,SC,KHN
+1342414386,Birch Physical Therapy,21-2610611,Physical Therapy,ID,GA,MER
+1561403270,Birch Physical Therapy Clinic,52-6327663,Physical Therapy,ID,ID,SUM
+1858696013,Valley Physical Therapy Group,90-4507880,Physical Therapy,ID,GA,KHN
+1507546649,Prairie Physical Therapy PLLC,97-5402328,Physical Therapy,ID,ID,SUM
+1410852147,Meadow Diagnostic Imaging Center,43-4450190,Diagnostic Imaging,ID,ID,
+1482548161,Alder Diagnostic Imaging Center,89-3953374,Diagnostic Imaging,ID,ID,SUM
+1769139885,Bluff Diagnostic Imaging Center,65-1369654,Diagnostic Imaging,ID,ID,KHN
+1187573071,Birch Diagnostic Imaging Center,24-9773171,Diagnostic Imaging,ID,ID,SUM
+1630520743,Valley Diagnostic Imaging Center,80-2338513,Diagnostic Imaging,ID,ID,
+1552287903,Valley Diagnostic Imaging Center,22-6244512,Diagnostic Imaging,ID,ID,KHN
+1658154557,Granite Diagnostic Imaging Center,68-9998588,Diagnostic Imaging,ID,TX,SUM
+1342107527,Cedar Diagnostic Imaging Center,61-1674489,Diagnostic Imaging,ID,SC,KHN
+1483446846,Valley Diagnostic Imaging Center,74-5477416,Diagnostic Imaging,ID,ID,
+1672254287,Prairie Orthopedic Surgery,60-9337338,Orthopedic Surgery,ID,ID,
+1596162484,Meadow Orthopedic Surgery Clinic,54-9221951,Orthopedic Surgery,ID,ID,
+1839767513,Summit Orthopedic Surgery Group,71-6361456,Orthopedic Surgery,ID,ID,
+1846034564,Granite Orthopedic Surgery Group,92-4444366,Orthopedic Surgery,ID,ID,
+1428612226,Prairie Orthopedic Surgery PLLC,45-7749592,Orthopedic Surgery,ID,ID,
+1802325889,Granite Orthopedic Surgery PLLC,79-6538736,Orthopedic Surgery,ID,ID,KHN
+1335634231,Ridge Orthopedic Surgery Group,67-2226418,Orthopedic Surgery,ID,ID,
+1483976286,Valley Orthopedic Surgery Associates,62-9416144,Orthopedic Surgery,ID,ID,SUM
+1671252949,Alder Orthopedic Surgery,78-3355182,Orthopedic Surgery,ID,ID,KHN
+1428786454,Lakeside Orthopedic Surgery Group,70-4467846,Orthopedic Surgery,ID,TX,
+1715863352,Prairie Orthopedic Surgery Clinic,77-9802408,Orthopedic Surgery,ID,ID,SUM
+1597939532,Canyon Orthopedic Surgery Associates,81-1178327,Orthopedic Surgery,ID,ID,
+1688995421,Birch Ambulatory Surgery Center Center,30-8490554,Ambulatory Surgery Center,ID,ID,
+1859886813,Lakeside Ambulatory Surgery Center Center,19-4393209,Ambulatory Surgery Center,ID,ID,KHN
+1627367667,Ridge Ambulatory Surgery Center Center,88-2084104,Ambulatory Surgery Center,ID,ID,SUM
+1736803887,Granite Ambulatory Surgery Center Center,16-1916637,Ambulatory Surgery Center,ID,ID,SUM
+1037080929,Cedar Ambulatory Surgery Center Center,55-9025562,Ambulatory Surgery Center,ID,SC,KHN
+1753719353,Prairie Ambulatory Surgery Center Center,58-9608522,Ambulatory Surgery Center,ID,ID,SUM
+1755248371,Cedar Ambulatory Surgery Center Center,56-4995701,Ambulatory Surgery Center,ID,ID,
+1010274825,Valley Durable Medical Equipment Clinic,96-8373170,Durable Medical Equipment,ID,ID,
+1981090526,Granite Durable Medical Equipment,22-4150588,Durable Medical Equipment,ID,ID,MER
+1040144933,Pioneer Durable Medical Equipment,96-3661704,Durable Medical Equipment,ID,ID,
+1393740340,Meadow Durable Medical Equipment,14-7556765,Durable Medical Equipment,ID,SC,KHN
+1367613093,Meadow Durable Medical Equipment,78-4877670,Durable Medical Equipment,ID,ID,MER
+1456881581,Pioneer Occupational Medicine Associates,52-7648764,Occupational Medicine,TN,TN,
+1634390582,Granite Occupational Medicine PLLC,51-7246156,Occupational Medicine,TN,TN,
+1168002998,Prairie Occupational Medicine Associates,90-1708645,Occupational Medicine,TN,TN,
+1331603309,Harbor Occupational Medicine Clinic,15-9164038,Occupational Medicine,TN,TN,KHN
+1073969613,Canyon Occupational Medicine Clinic,92-7536811,Occupational Medicine,TN,ID,
+1559707734,Bluff Physical Therapy Clinic,72-2904800,Physical Therapy,TN,TN,
+1945219968,Harbor Physical Therapy,35-4278585,Physical Therapy,TN,TN,
+1586427855,Summit Physical Therapy Clinic,17-5333068,Physical Therapy,TN,TN,
+1901362979,Prairie Diagnostic Imaging Center,17-9670105,Diagnostic Imaging,TN,TN,
+1279294419,Granite Orthopedic Surgery Clinic,28-5211528,Orthopedic Surgery,TN,TN,
+1037030610,Valley Orthopedic Surgery Associates,46-9777640,Orthopedic Surgery,TN,TN,
+1198679008,Valley Ambulatory Surgery Center Center,68-1168211,Ambulatory Surgery Center,TN,TN,
+1606366447,Meadow Durable Medical Equipment Group,91-7747475,Durable Medical Equipment,TN,TN,
+1187992246,Meadow Occupational Medicine,95-7636318,Occupational Medicine,TX,TX,
+1959378034,Harbor Occupational Medicine,14-7502211,Occupational Medicine,TX,TX,
+1154764387,Canyon Occupational Medicine Associates,17-5554489,Occupational Medicine,TX,TX,SUM
+1943952235,Riverbend Occupational Medicine Group,76-9100256,Occupational Medicine,TX,TX,MER
+1681310493,Pioneer Occupational Medicine Group,24-7429099,Occupational Medicine,TX,TX,KHN
+1417990264,Cedar Physical Therapy,56-3033404,Physical Therapy,TX,TX,
+1577126144,Birch Physical Therapy Associates,11-4416395,Physical Therapy,TX,NM,
+1728730336,Prairie Physical Therapy,35-1331608,Physical Therapy,TX,TX,
+1202163680,Harbor Diagnostic Imaging Center,81-3898797,Diagnostic Imaging,TX,TX,
+1799258920,Summit Orthopedic Surgery Associates,53-6078423,Orthopedic Surgery,TX,KY,
+1750806233,Pioneer Orthopedic Surgery PLLC,46-5631939,Orthopedic Surgery,TX,TX,KHN
+1825209151,Bluff Ambulatory Surgery Center Center,23-8480818,Ambulatory Surgery Center,TX,TX,
+1376124653,Granite Durable Medical Equipment Group,36-4589148,Durable Medical Equipment,TX,TX,
+1547553184,Granite Occupational Medicine PLLC,22-1083341,Occupational Medicine,WA,TX,
+1723920666,Alder Occupational Medicine Group,82-7618709,Occupational Medicine,WA,WA,
+1666991422,Lakeside Occupational Medicine Group,62-6207538,Occupational Medicine,WA,WA,SUM
+1943452408,Alder Occupational Medicine PLLC,94-3656867,Occupational Medicine,WA,WA,
+1974204097,Cedar Occupational Medicine PLLC,33-3775001,Occupational Medicine,WA,WA,
+1078723560,Birch Physical Therapy Associates,58-9620001,Physical Therapy,WA,WA,KHN
+1356542345,Meadow Physical Therapy Clinic,86-4156393,Physical Therapy,WA,WA,
+1168741129,Pioneer Physical Therapy Group,59-1211821,Physical Therapy,WA,WA,
+1144683920,Lakeside Diagnostic Imaging Center,34-5762269,Diagnostic Imaging,WA,WA,KHN
+1805955364,Prairie Orthopedic Surgery,67-4406703,Orthopedic Surgery,WA,WA,
+1440697741,Summit Orthopedic Surgery,74-7637558,Orthopedic Surgery,WA,KY,
+1265823128,Lakeside Ambulatory Surgery Center Center,73-7894365,Ambulatory Surgery Center,WA,SC,
+1083595399,Lakeside Durable Medical Equipment Clinic,28-4320249,Durable Medical Equipment,WA,WA,

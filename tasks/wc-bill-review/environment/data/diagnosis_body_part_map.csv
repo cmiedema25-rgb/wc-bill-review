@@ -1,0 +1,22 @@
+icd10_code,description,body_part
+G56.01,"Carpal tunnel syndrome, right upper limb",right wrist/hand
+G56.02,"Carpal tunnel syndrome, left upper limb",left wrist/hand
+M51.16,"Intervertebral disc disorder with radiculopathy, lumbar",lumbar spine
+M54.2,Cervicalgia,cervical spine
+M54.50,"Low back pain, unspecified",lumbar spine
+M54.6,Pain in thoracic spine,thoracic spine
+M75.101,"Rotator cuff tear, right shoulder, not specified as traumatic",right shoulder
+M75.102,"Rotator cuff tear, left shoulder, not specified as traumatic",left shoulder
+R51.9,"Headache, unspecified",head
+S06.0X0A,"Concussion without loss of consciousness, initial",head
+S13.4XXA,"Sprain of ligaments of cervical spine, initial",cervical spine
+S23.3XXA,"Sprain of ligaments of thoracic spine, initial",thoracic spine
+S33.5XXA,"Sprain of ligaments of lumbar spine, initial",lumbar spine
+S43.421A,"Sprain of right rotator cuff capsule, initial",right shoulder
+S43.422A,"Sprain of left rotator cuff capsule, initial",left shoulder
+S63.501A,"Sprain of right wrist, initial",right wrist/hand
+S63.502A,"Sprain of left wrist, initial",left wrist/hand
+S83.241A,"Other tear of medial meniscus, right knee, initial",right knee
+S83.242A,"Other tear of medial meniscus, left knee, initial",left knee
+S83.91XA,"Sprain of unspecified site of right knee, initial",right knee
+S83.92XA,"Sprain of unspecified site of left knee, initial",left knee

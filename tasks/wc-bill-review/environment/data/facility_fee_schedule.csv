@@ -1,0 +1,129 @@
+state,hcpcs,description,relative_weight,status_indicator
+KY,R4101,"Radiograph, lumbar spine, 2-3 views",0.6059,S
+KY,R4104,"Radiograph, cervical spine, 2-3 views",0.575,S
+KY,R4106,"Radiograph, thoracic spine, 2 views",0.5563,S
+KY,R4102,"Radiograph, knee, 3 views",0.5192,S
+KY,R4103,"Radiograph, shoulder, 2 views",0.5475,S
+KY,R4105,"Radiograph, wrist, 3 views",0.5052,S
+KY,R4201,MRI lumbar spine without contrast,3.0865,S
+KY,R4204,MRI cervical spine without contrast,3.0735,S
+KY,R4202,MRI lower extremity joint without contrast,3.0355,S
+KY,R4203,MRI upper extremity joint without contrast,3.1356,S
+KY,R4301,CT head without contrast,1.996,S
+KY,J5101,"Trigger point injection, 1-2 muscles",0.8657,T
+KY,J5102,"Arthrocentesis/injection, major joint",1.045,T
+KY,J5105,"Arthrocentesis/injection, small joint",0.8329,T
+KY,J5103,"Epidural steroid injection, lumbar",6.3402,T
+KY,J5106,"Epidural steroid injection, cervical",6.6237,T
+KY,J5104,"Facet joint injection, single level",5.9255,T
+KY,S6101,"Arthroscopic meniscectomy, knee",26.632,T
+KY,S6102,"Arthroscopic debridement, knee",23.1025,T
+KY,S6103,Arthroscopic rotator cuff repair,40.7782,T
+KY,S6104,Arthroscopic subacromial decompression,18.2978,T
+KY,S6105,"Carpal tunnel release, open",17.209,T
+KY,S6106,Trigger finger release,12.6186,T
+KY,S6107,"Lumbar discectomy, single interspace",51.0426,T
+KY,S6108,"Laminotomy, lumbar, single interspace",34.3879,T
+KY,S6109,"Simple wound repair, up to 7.5 cm",4.0236,T
+KY,S6110,"Intermediate wound repair, up to 7.5 cm",6.7049,T
+KY,D7101,"Lumbar-sacral orthosis, prefabricated",1.055,N
+KY,D7102,"Knee orthosis, hinged, prefabricated",1.4746,N
+KY,D7103,"Wrist-hand orthosis, prefabricated",0.4748,N
+KY,D7104,Cold therapy device,1.2887,N
+KY,D7105,"Cervical collar, semi-rigid",0.3825,N
+NM,R4101,"Radiograph, lumbar spine, 2-3 views",0.6341,S
+NM,R4104,"Radiograph, cervical spine, 2-3 views",0.5923,S
+NM,R4106,"Radiograph, thoracic spine, 2 views",0.5715,S
+NM,R4102,"Radiograph, knee, 3 views",0.5652,S
+NM,R4103,"Radiograph, shoulder, 2 views",0.5453,S
+NM,R4105,"Radiograph, wrist, 3 views",0.513,S
+NM,R4201,MRI lumbar spine without contrast,3.1539,S
+NM,R4204,MRI cervical spine without contrast,3.1988,S
+NM,R4202,MRI lower extremity joint without contrast,3.1296,S
+NM,R4203,MRI upper extremity joint without contrast,3.3198,S
+NM,R4301,CT head without contrast,2.0595,S
+NM,J5101,"Trigger point injection, 1-2 muscles",0.8803,T
+NM,J5102,"Arthrocentesis/injection, major joint",1.0246,T
+NM,J5105,"Arthrocentesis/injection, small joint",0.858,T
+NM,J5103,"Epidural steroid injection, lumbar",6.3609,T
+NM,J5106,"Epidural steroid injection, cervical",6.7481,T
+NM,J5104,"Facet joint injection, single level",6.0493,T
+NM,S6101,"Arthroscopic meniscectomy, knee",28.479,T
+NM,S6102,"Arthroscopic debridement, knee",24.2431,T
+NM,S6103,Arthroscopic rotator cuff repair,41.5462,T
+NM,S6104,Arthroscopic subacromial decompression,19.3991,T
+NM,S6105,"Carpal tunnel release, open",17.3672,T
+NM,S6106,Trigger finger release,12.8708,T
+NM,S6107,"Lumbar discectomy, single interspace",52.1019,T
+NM,S6108,"Laminotomy, lumbar, single interspace",35.2408,T
+NM,S6109,"Simple wound repair, up to 7.5 cm",4.3039,T
+NM,S6110,"Intermediate wound repair, up to 7.5 cm",6.6314,T
+NM,D7101,"Lumbar-sacral orthosis, prefabricated",1.1166,N
+NM,D7102,"Knee orthosis, hinged, prefabricated",1.5004,N
+NM,D7103,"Wrist-hand orthosis, prefabricated",0.5056,N
+NM,D7104,Cold therapy device,1.3302,N
+NM,D7105,"Cervical collar, semi-rigid",0.3989,N
+SC,R4101,"Radiograph, lumbar spine, 2-3 views",0.5896,S
+SC,R4104,"Radiograph, cervical spine, 2-3 views",0.5594,S
+SC,R4106,"Radiograph, thoracic spine, 2 views",0.553,S
+SC,R4102,"Radiograph, knee, 3 views",0.5093,S
+SC,R4103,"Radiograph, shoulder, 2 views",0.5273,S
+SC,R4105,"Radiograph, wrist, 3 views",0.4967,S
+SC,R4201,MRI lumbar spine without contrast,2.8571,S
+SC,R4204,MRI cervical spine without contrast,2.9728,S
+SC,R4202,MRI lower extremity joint without contrast,2.9517,S
+SC,R4203,MRI upper extremity joint without contrast,3.1211,S
+SC,R4301,CT head without contrast,1.9675,S
+SC,J5101,"Trigger point injection, 1-2 muscles",0.8725,T
+SC,J5102,"Arthrocentesis/injection, major joint",1.0153,T
+SC,J5105,"Arthrocentesis/injection, small joint",0.8259,T
+SC,J5103,"Epidural steroid injection, lumbar",5.9615,T
+SC,J5106,"Epidural steroid injection, cervical",6.2311,T
+SC,J5104,"Facet joint injection, single level",5.6704,T
+SC,S6101,"Arthroscopic meniscectomy, knee",26.8887,T
+SC,S6102,"Arthroscopic debridement, knee",23.4143,T
+SC,S6103,Arthroscopic rotator cuff repair,39.6344,T
+SC,S6104,Arthroscopic subacromial decompression,18.1263,T
+SC,S6105,"Carpal tunnel release, open",17.0208,T
+SC,S6106,Trigger finger release,12.29,T
+SC,S6107,"Lumbar discectomy, single interspace",50.5272,T
+SC,S6108,"Laminotomy, lumbar, single interspace",32.8307,T
+SC,S6109,"Simple wound repair, up to 7.5 cm",3.999,T
+SC,S6110,"Intermediate wound repair, up to 7.5 cm",6.6067,T
+SC,D7101,"Lumbar-sacral orthosis, prefabricated",1.0722,N
+SC,D7102,"Knee orthosis, hinged, prefabricated",1.3869,N
+SC,D7103,"Wrist-hand orthosis, prefabricated",0.475,N
+SC,D7104,Cold therapy device,1.2323,N
+SC,D7105,"Cervical collar, semi-rigid",0.3752,N
+ID,R4101,"Radiograph, lumbar spine, 2-3 views",0.6585,S
+ID,R4104,"Radiograph, cervical spine, 2-3 views",0.6357,S
+ID,R4106,"Radiograph, thoracic spine, 2 views",0.6307,S
+ID,R4102,"Radiograph, knee, 3 views",0.5691,S
+ID,R4103,"Radiograph, shoulder, 2 views",0.5867,S
+ID,R4105,"Radiograph, wrist, 3 views",0.5417,S
+ID,R4201,MRI lumbar spine without contrast,3.2511,S
+ID,R4204,MRI cervical spine without contrast,3.356,S
+ID,R4202,MRI lower extremity joint without contrast,3.3261,S
+ID,R4203,MRI upper extremity joint without contrast,3.5427,S
+ID,R4301,CT head without contrast,2.1987,S
+ID,J5101,"Trigger point injection, 1-2 muscles",0.9474,T
+ID,J5102,"Arthrocentesis/injection, major joint",1.0838,T
+ID,J5105,"Arthrocentesis/injection, small joint",0.9166,T
+ID,J5103,"Epidural steroid injection, lumbar",6.6211,T
+ID,J5106,"Epidural steroid injection, cervical",7.3136,T
+ID,J5104,"Facet joint injection, single level",6.398,T
+ID,S6101,"Arthroscopic meniscectomy, knee",30.4748,T
+ID,S6102,"Arthroscopic debridement, knee",26.4756,T
+ID,S6103,Arthroscopic rotator cuff repair,44.0677,T
+ID,S6104,Arthroscopic subacromial decompression,19.9294,T
+ID,S6105,"Carpal tunnel release, open",18.1645,T
+ID,S6106,Trigger finger release,13.6329,T
+ID,S6107,"Lumbar discectomy, single interspace",56.0827,T
+ID,S6108,"Laminotomy, lumbar, single interspace",36.7457,T
+ID,S6109,"Simple wound repair, up to 7.5 cm",4.4266,T
+ID,S6110,"Intermediate wound repair, up to 7.5 cm",7.0107,T
+ID,D7101,"Lumbar-sacral orthosis, prefabricated",1.1927,N
+ID,D7102,"Knee orthosis, hinged, prefabricated",1.5503,N
+ID,D7103,"Wrist-hand orthosis, prefabricated",0.5282,N
+ID,D7104,Cold therapy device,1.3416,N
+ID,D7105,"Cervical collar, semi-rigid",0.4126,N
